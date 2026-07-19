@@ -1,6 +1,6 @@
 {
-  "version": "1.7.2",
-  "versionCode": 13,
+  "version": "1.7.3",
+  "versionCode": 14,
   "url": "https://drive.google.com/file/d/1qJ4eUsjZvNCt2rfi7dwx7BneG4ipfX8C/view?usp=drive_link",
-  "notes": "Corregida de raiz la posicion de los acordes sobre la silaba: ahora acordes y letra se componen juntos, es imposible que se desalineen. Corregida la barra de velocidad del desplazamiento. Los diagramas de acordes pasaron de 33 a mas de 100, incluyendo los escritos en espanol. Nuevo: reportar errores o enviar sugerencias."
+  "notes": "Corregida definitivamente la posicion de los acordes: ahora se reproduce exactamente la geometria de la pagina del himnario, donde los acordes van un 13,3% mas pequenos que la letra y eso mismo define su posicion horizontal."
 }
