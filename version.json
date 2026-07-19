@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
-  "versionCode": 9,
+  "version": "1.6.1",
+  "versionCode": 10,
   "url": "https://drive.google.com/file/d/1qJ4eUsjZvNCt2rfi7dwx7BneG4ipfX8C/view?usp=drive_link",
-  "notes": "Nueva seccion Himnario: 613 himnos con letra y acordes, en su propia pestana, con acordes posicionados sobre la letra y ajuste automatico para que no salga barra de desplazamiento horizontal. 36 himnos ya verificados; el resto se ira actualizando."
+  "notes": "Nueva seccion Himnario: 613 himnos con letra y acordes, con acordes posicionados sobre la letra y ajuste automatico sin desplazamiento horizontal. Ademas se corrigio el aviso de actualizaciones, que antes nunca aparecia."
 }
