@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "versionCode": 11,
+  "version": "1.7.1",
+  "versionCode": 12,
   "url": "https://drive.google.com/file/d/1qJ4eUsjZvNCt2rfi7dwx7BneG4ipfX8C/view?usp=drive_link",
-  "notes": "Himnario completo: transposicion de acordes, ocultar acordes, favoritos, setlist del servicio, modo Live, diagramas de guitarra y partituras escaneadas con zoom. Ademas ya puedes elegir el color de la app entre ocho opciones."
+  "notes": "Corregida la posicion de los acordes sobre la silaba (medicion exacta y sin verse afectada por el tamano de letra del sistema). Nuevo desplazamiento automatico en el himnario. El buscador ya no se limita a 400 resultados y permite filtrar por Antiguo Testamento, Nuevo Testamento o un libro."
 }
