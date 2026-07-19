@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "versionCode": 8,
+  "version": "1.6.0",
+  "versionCode": 9,
   "url": "https://drive.google.com/file/d/1qJ4eUsjZvNCt2rfi7dwx7BneG4ipfX8C/view?usp=drive_link",
-  "notes": "Nueva version web (PWA) para iPhone/Safari: instalable con \"Anadir a pantalla de inicio\", sin tienda de aplicaciones. Mejoras internas de guardado (sin cambios visibles en Android)."
+  "notes": "Nueva seccion Himnario: 613 himnos con letra y acordes, en su propia pestana, con acordes posicionados sobre la letra y ajuste automatico para que no salga barra de desplazamiento horizontal. 36 himnos ya verificados; el resto se ira actualizando."
 }
