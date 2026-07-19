@@ -1,6 +1,6 @@
 {
-  "version": "1.7.1",
-  "versionCode": 12,
+  "version": "1.7.2",
+  "versionCode": 13,
   "url": "https://drive.google.com/file/d/1qJ4eUsjZvNCt2rfi7dwx7BneG4ipfX8C/view?usp=drive_link",
-  "notes": "Corregida la posicion de los acordes sobre la silaba (medicion exacta y sin verse afectada por el tamano de letra del sistema). Nuevo desplazamiento automatico en el himnario. El buscador ya no se limita a 400 resultados y permite filtrar por Antiguo Testamento, Nuevo Testamento o un libro."
+  "notes": "Corregida de raiz la posicion de los acordes sobre la silaba: ahora acordes y letra se componen juntos, es imposible que se desalineen. Corregida la barra de velocidad del desplazamiento. Los diagramas de acordes pasaron de 33 a mas de 100, incluyendo los escritos en espanol. Nuevo: reportar errores o enviar sugerencias."
 }
