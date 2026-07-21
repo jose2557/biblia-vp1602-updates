@@ -1,6 +1,6 @@
 {
-  "version": "1.7.3",
-  "versionCode": 14,
+  "version": "1.8.0",
+  "versionCode": 15,
   "url": "https://drive.google.com/file/d/1qJ4eUsjZvNCt2rfi7dwx7BneG4ipfX8C/view?usp=drive_link",
-  "notes": "Corregida definitivamente la posicion de los acordes: ahora se reproduce exactamente la geometria de la pagina del himnario, donde los acordes van un 13,3% mas pequenos que la letra y eso mismo define su posicion horizontal."
+  "notes": "Nuevo: recordatorios diarios (¿ya leíste hoy? y repasar los versículos del mes), configurables. En Memorizar se resaltan los versículos del mes y se sugiere el siguiente sin repasar. Nuevo plan de lectura personal con meta, fecha, marcado diario y recálculo del ritmo si te atrasas."
 }
