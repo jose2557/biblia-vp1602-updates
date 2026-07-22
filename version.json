@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0",
-  "versionCode": 15,
+  "version": "1.9.0",
+  "versionCode": 16,
   "url": "https://drive.google.com/file/d/1qJ4eUsjZvNCt2rfi7dwx7BneG4ipfX8C/view?usp=drive_link",
-  "notes": "Nuevo: recordatorios diarios (¿ya leíste hoy? y repasar los versículos del mes), configurables. En Memorizar se resaltan los versículos del mes y se sugiere el siguiente sin repasar. Nuevo plan de lectura personal con meta, fecha, marcado diario y recálculo del ritmo si te atrasas."
+  "notes": "El versículo del mes ahora sale también en el Inicio de Memorizar y en la notificación de repaso, con avisos opcionales durante el día. Plan de lectura renovado: crea un plan por la Biblia y ve tachando capítulos leídos en cualquier orden, registrando lo que ya llevabas; la app recalcula el ritmo si te atrasas."
 }
