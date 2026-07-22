@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "versionCode": 17,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.0.0.apk",
-  "notes": "Nueva sección Aprender: lee los versículos por categoría y escúchalos en voz alta y en bucle para memorizarlos. Corregido el versículo repetido que descuadraba los conteos de Visiones y Discipulado. Nuevo recordatorio para actualizar tu plan de lectura. La actualización ahora se descarga directa y ya no se instala dos veces."
+  "version": "2.0.1",
+  "versionCode": 18,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.0.1.apk",
+  "notes": "Corregidos los recordatorios, que no estaban llegando: ahora se programan en modo exacto y se crean bien los canales de notificación. Nuevo botón 'Probar ahora' para comprobarlos al instante. Además, botón flotante 'Mi meta' en la pantalla de la Biblia para marcar tu lectura de un toque."
 }
