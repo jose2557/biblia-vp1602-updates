@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
-  "versionCode": 19,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.1.0.apk",
-  "notes": "Arreglado el audio para escuchar versículos: ya no se detiene al bloquear la pantalla o salir de la app (sigue sonando en segundo plano con controles en la notificación) y la voz ahora sale en español."
+  "version": "2.1.1",
+  "versionCode": 20,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.1.1.apk",
+  "notes": "La voz al escuchar versículos ahora usa el motor de Google (voz en español). Nuevo selector de voz y acento en Aprender → opciones de audio, con las voces en español instaladas en tu teléfono."
 }
