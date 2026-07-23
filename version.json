@@ -1,6 +1,6 @@
 {
-  "version": "2.1.1",
-  "versionCode": 20,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.1.1.apk",
-  "notes": "La voz al escuchar versículos ahora usa el motor de Google (voz en español). Nuevo selector de voz y acento en Aprender → opciones de audio, con las voces en español instaladas en tu teléfono."
+  "version": "2.1.2",
+  "versionCode": 21,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.1.2.apk",
+  "notes": "Ahora puedes elegir el acento de la voz (España, México, Argentina, Colombia, Latinoamérica…) y hay un botón 'Probar' para escuchar cada voz antes de elegirla, en Aprender → opciones de audio."
 }
