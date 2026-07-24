@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "versionCode": 22,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.2.0.apk",
-  "notes": "El evaluador de versículos ahora es más justo: si agregas o te falta una palabra ya no da 0%, reconoce lo que escribiste bien y muestra tu porcentaje real. Y al tocar 'Repasar el sugerido' te lleva directo al cuadro para escribir."
+  "version": "2.3.0",
+  "versionCode": 24,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.3.0.apk",
+  "notes": "Nuevo: sistema de puntos en Memorizar. Ganas puntos segun tu precision (decimales, 92% = 9,2), con bono de 3 al primer intento perfecto, y 10 por cada pregunta del evaluador. Tu perfil con nombre y versiculo favorito, y tarjeta Mis puntos por dia, semana, mes y total. Ademas, un versiculo solo sale del repaso al escribirlo 100% correcto."
 }
