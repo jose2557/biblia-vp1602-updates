@@ -1,6 +1,6 @@
 {
-  "version": "2.4.1",
-  "versionCode": 26,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.4.1.apk",
-  "notes": "Ya se conecto la nube: el ranking (Versiculos/Evaluador por dia, semana, mes y siempre), tu posicion mientras estudias, quien esta estudiando ahora y los saludos ya estan activos. Tu perfil se sincroniza junto con tus puntos. Ademas se corrigio en Android que Repasar el sugerido a veces se quedaba a medio camino del cuadro de escritura por la animacion del teclado. Todo sigue funcionando sin internet; la sincronizacion es un plus cuando hay conexion."
+  "version": "2.5.0",
+  "versionCode": 27,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.5.0.apk",
+  "notes": "Al actualizar, la app ahora te explica las funciones nuevas con un recorrido corto. Nuevo: records de velocidad por versiculo (con el cronometro, quien lo escriba mas rapido al 100% se queda con el record y su nombre queda a la vista); boton flotante de quien esta estudiando ahora, junto al de tu posicion en el ranking; y la ficha de cada persona al tocar su nombre (records, puntos, racha y su meta de lectura). Los puntos del evaluador ahora son 1 por pregunta acertada y 2 si contestas en menos de 5 segundos, con cuenta regresiva. Tus datos y preferencias no se borran al actualizar."
 }
