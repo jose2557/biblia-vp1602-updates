@@ -1,6 +1,6 @@
 {
-  "version": "2.5.0",
-  "versionCode": 27,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.5.0.apk",
-  "notes": "Al actualizar, la app ahora te explica las funciones nuevas con un recorrido corto. Nuevo: records de velocidad por versiculo (con el cronometro, quien lo escriba mas rapido al 100% se queda con el record y su nombre queda a la vista); boton flotante de quien esta estudiando ahora, junto al de tu posicion en el ranking; y la ficha de cada persona al tocar su nombre (records, puntos, racha y su meta de lectura). Los puntos del evaluador ahora son 1 por pregunta acertada y 2 si contestas en menos de 5 segundos, con cuenta regresiva. Tus datos y preferencias no se borran al actualizar."
+  "version": "2.5.1",
+  "versionCode": 28,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.5.1.apk",
+  "notes": "Corregido lo mas importante: la sincronizacion entre el telefono y la computadora se pisaba a si misma y el ultimo en guardar borraba el progreso del otro. Ahora la app primero trae lo de la nube, lo combina con lo tuyo y solo entonces guarda. Ademas: el cronometro viene encendido por defecto, la burbuja de quien esta en linea tambien esta en el Inicio de Memorizar, el aviso de actualizacion ya no exige cerrar la app, y en la ficha de cada persona se ve su ultima lectura registrada."
 }
