@@ -1,6 +1,6 @@
 {
-  "version": "2.1.2",
-  "versionCode": 21,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.1.2.apk",
-  "notes": "Ahora puedes elegir el acento de la voz (España, México, Argentina, Colombia, Latinoamérica…) y hay un botón 'Probar' para escuchar cada voz antes de elegirla, en Aprender → opciones de audio."
+  "version": "2.2.0",
+  "versionCode": 22,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.2.0.apk",
+  "notes": "El evaluador de versículos ahora es más justo: si agregas o te falta una palabra ya no da 0%, reconoce lo que escribiste bien y muestra tu porcentaje real. Y al tocar 'Repasar el sugerido' te lleva directo al cuadro para escribir."
 }
