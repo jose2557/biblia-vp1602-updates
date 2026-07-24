@@ -1,6 +1,6 @@
 {
-  "version": "2.4.0",
-  "versionCode": 25,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.4.0.apk",
-  "notes": "Corregido: Repasar el sugerido ahora lleva directo al cuadro de escritura, sin tener que deslizar. Base preparada para el ranking con los demas (posicion semanal, dia/semana/mes/siempre, quien esta estudiando ahora y saludos) que se activara con la proxima actualizacion cuando se conecte la nube; por ahora no cambia nada del uso sin internet."
+  "version": "2.4.1",
+  "versionCode": 26,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.4.1.apk",
+  "notes": "Ya se conecto la nube: el ranking (Versiculos/Evaluador por dia, semana, mes y siempre), tu posicion mientras estudias, quien esta estudiando ahora y los saludos ya estan activos. Tu perfil se sincroniza junto con tus puntos. Ademas se corrigio en Android que Repasar el sugerido a veces se quedaba a medio camino del cuadro de escritura por la animacion del teclado. Todo sigue funcionando sin internet; la sincronizacion es un plus cuando hay conexion."
 }
