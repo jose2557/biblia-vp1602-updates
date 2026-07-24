@@ -1,6 +1,6 @@
 {
-  "version": "2.5.1",
-  "versionCode": 28,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.5.1.apk",
-  "notes": "Corregido lo mas importante: la sincronizacion entre el telefono y la computadora se pisaba a si misma y el ultimo en guardar borraba el progreso del otro. Ahora la app primero trae lo de la nube, lo combina con lo tuyo y solo entonces guarda. Ademas: el cronometro viene encendido por defecto, la burbuja de quien esta en linea tambien esta en el Inicio de Memorizar, el aviso de actualizacion ya no exige cerrar la app, y en la ficha de cada persona se ve su ultima lectura registrada."
+  "version": "2.5.2",
+  "versionCode": 29,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.5.2.apk",
+  "notes": "Corregido: la burbuja de usuarios en linea no aparecia nunca. Se escondia cuando no habia nadie mas conectado y la presencia solo se anunciaba dentro de una sesion. Ahora esta siempre visible en Memorizar (Inicio, Versiculos y Evaluador), el numero te incluye a ti, y tu presencia se anuncia desde que entras. Nuevo: el cronometro se ve corriendo encima del cuadro mientras escribes. El modo Texto a Referencia ya no compite por records y reparte puntos como el evaluador (1 por acierto, 2 si respondes en menos de 5 segundos). Se quito el interruptor de SRS: el repaso espaciado queda siempre activo."
 }
