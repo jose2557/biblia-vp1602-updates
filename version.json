@@ -1,6 +1,6 @@
 {
-  "version": "2.3.0",
-  "versionCode": 24,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.3.0.apk",
-  "notes": "Nuevo: sistema de puntos en Memorizar. Ganas puntos segun tu precision (decimales, 92% = 9,2), con bono de 3 al primer intento perfecto, y 10 por cada pregunta del evaluador. Tu perfil con nombre y versiculo favorito, y tarjeta Mis puntos por dia, semana, mes y total. Ademas, un versiculo solo sale del repaso al escribirlo 100% correcto."
+  "version": "2.4.0",
+  "versionCode": 25,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.4.0.apk",
+  "notes": "Corregido: Repasar el sugerido ahora lleva directo al cuadro de escritura, sin tener que deslizar. Base preparada para el ranking con los demas (posicion semanal, dia/semana/mes/siempre, quien esta estudiando ahora y saludos) que se activara con la proxima actualizacion cuando se conecte la nube; por ahora no cambia nada del uso sin internet."
 }
