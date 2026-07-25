@@ -1,6 +1,6 @@
 {
-  "version": "2.6.0",
-  "versionCode": 30,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.6.0.apk",
-  "notes": "Repaso espaciado rehecho: cada versiculo tiene nivel y fecha de proximo repaso (1, 3, 7, 16 y 35 dias), con puntitos de dominio sobre la tarjeta. Corregido: un versiculo fallado salia dos veces seguidas, y seguias apareciendo en linea con la app en segundo plano. El ranking ahora es una tarjeta destacada con el podio de la semana. Nuevo: ver que versiculos domina cada persona y en cuantos segundos; tarjeta de meta de lectura que te recuerda registrar tu avance del dia. El perfil es obligatorio al entrar a Memorizar y la sugerencia del mes quedo mucho mas compacta."
+  "version": "2.6.1",
+  "versionCode": 31,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.6.1.apk",
+  "notes": "Himnario actualizado: se corrigieron las letras y la posicion de los acordes en 77 himnos, comparados contra la partitura. Ademas ya son 50 los himnos con la insignia de verificado (antes 36)."
 }
