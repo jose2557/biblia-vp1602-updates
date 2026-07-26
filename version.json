@@ -1,6 +1,6 @@
 {
-  "version": "2.7.1",
-  "versionCode": 33,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.7.1.apk",
-  "notes": "Corregido: el ranking de HOY mostraba puntos de dias anteriores, porque los totales por periodo quedaban congelados si la persona no abria la app. Ahora llevan fecha y lo vencido cuenta como cero. Corregido: en telefonos con botones de navegacion en pantalla el contenido quedaba tapado (por ejemplo la meta de lectura en la ficha de alguien). Nuevo: boton para unir a mano un registro anterior, escribiendo el nombre que usabas antes. Nuevo: pagina de descarga con enlace permanente para compartir por QR."
+  "version": "2.7.2",
+  "versionCode": 34,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.7.2.apk",
+  "notes": "Corregido: en los rankings de hoy, semana y mes solo aparecian las personas que ya tenian la ultima version. El arreglo anterior marcaba los totales con la fecha del periodo, y quien no habia actualizado no tenia esa marca y quedaba fuera. Ahora los puntos del periodo se calculan a partir del registro de cada punto, que trae su propia fecha, asi que el ranking sale exacto para todos sin importar que version tengan."
 }
