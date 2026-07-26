@@ -1,6 +1,6 @@
 {
-  "version": "2.7.0",
-  "versionCode": 32,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.7.0.apk",
-  "notes": "Corregido de raiz: la identificacion de cada persona se calculaba a partir de su nombre, asi que escribirlo distinto creaba otro usuario y los puntos quedaban repartidos. Ahora cada persona tiene un identificador propio y fijo: cambiar el nombre actualiza el mismo registro y conserva puntos, records y racha. Si alguien ya se creo varios registros, al entrar se le ofrece unirlos eligiendo con que nombre se queda. Se pide nombre y apellido reales. A quien no tiene meta de lectura se le explica cada tanto para que sirve, y la notificacion lo invita a crearla. El ranking del Inicio arranca en HOY y se puede cambiar. Con internet y version nueva, la app pide actualizar antes de seguir (sin conexion funciona normal). Corregido: al desmarcar un capitulo de la meta, la ultima lectura vuelve a la anterior real."
+  "version": "2.7.1",
+  "versionCode": 33,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.7.1.apk",
+  "notes": "Corregido: el ranking de HOY mostraba puntos de dias anteriores, porque los totales por periodo quedaban congelados si la persona no abria la app. Ahora llevan fecha y lo vencido cuenta como cero. Corregido: en telefonos con botones de navegacion en pantalla el contenido quedaba tapado (por ejemplo la meta de lectura en la ficha de alguien). Nuevo: boton para unir a mano un registro anterior, escribiendo el nombre que usabas antes. Nuevo: pagina de descarga con enlace permanente para compartir por QR."
 }

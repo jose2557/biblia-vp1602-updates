@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Biblia Valera Purificada 1602 — Descargar</title>
+<style>
+  :root { --azul:#152C54; --azul2:#1e3d75; --claro:#f4f6fa; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+         background:var(--claro); color:#16233d; display:flex; min-height:100vh;
+         align-items:center; justify-content:center; padding:24px; }
+  .caja { background:#fff; border-radius:20px; max-width:440px; width:100%;
+          padding:32px 26px; box-shadow:0 10px 40px rgba(21,44,84,.14); text-align:center; }
+  .icono { font-size:52px; line-height:1; }
+  h1 { font-size:22px; margin:14px 0 4px; color:var(--azul); }
+  .sub { font-size:14px; color:#5c6b8a; margin:0 0 4px; }
+  .ver { display:inline-block; font-size:12px; color:#5c6b8a; background:var(--claro);
+         padding:4px 10px; border-radius:20px; margin:10px 0 22px; }
+  a.btn { display:block; text-decoration:none; padding:15px 18px; border-radius:13px;
+          font-weight:700; font-size:16px; margin-bottom:12px; }
+  .principal { background:var(--azul); color:#fff; }
+  .principal:active { background:var(--azul2); }
+  .secundario { background:var(--claro); color:var(--azul); border:2px solid #d7dfee; }
+  .nota { font-size:12.5px; color:#5c6b8a; line-height:1.55; margin-top:18px;
+          text-align:left; background:var(--claro); padding:13px 15px; border-radius:11px; }
+  .nota b { color:#16233d; }
+  .pie { font-size:11.5px; color:#8b98b0; margin-top:18px; }
+</style>
+</head>
+<body>
+  <div class="caja">
+    <div class="icono">📖</div>
+    <h1>Santa Biblia<br>Valera Purificada 1602</h1>
+    <p class="sub">Revisión 2024 · Lectura sin conexión, himnario y memorización</p>
+    <div class="ver" id="ver">Cargando versión…</div>
+
+    <a class="btn principal" id="apk" href="../apk/BibliaVP1602-latest.apk">
+      ⬇️ Descargar para Android
+    </a>
+    <a class="btn secundario" href="../">
+      🌐 Abrir en el navegador (iPhone y PC)
+    </a>
+
+    <div class="nota">
+      <b>Android:</b> al abrir el archivo descargado, si te avisa que no se
+      permiten instalaciones de esta fuente, toca <b>Ajustes</b> y activa el
+      permiso solo para tu navegador. Es porque la app no está en la Play Store.
+      <br><br>
+      <b>iPhone:</b> usa la opción del navegador y luego <b>Compartir →
+      Añadir a pantalla de inicio</b> para tenerla como una app.
+    </div>
+    <div class="pie">Este enlace siempre te lleva a la última versión.</div>
+  </div>
+
+<script>
+// Se lee el manifiesto de versiones para mostrar cuál es la actual y
+// apuntar el botón al archivo exacto. Si algo falla, el enlace fijo
+// "-latest.apk" sigue funcionando igual.
+fetch('../../version.json?t=' + Date.now())
+  .then(function (r) { return r.json(); })
+  .then(function (j) {
+    document.getElementById('ver').textContent = 'Versión ' + j.version;
+    if (j.url) document.getElementById('apk').href = j.url;
+  })
+  .catch(function () {
+    document.getElementById('ver').textContent = 'Última versión disponible';
+  });
+</script>
+</body>
+</html>
