@@ -1,6 +1,6 @@
 {
-  "version": "2.6.1",
-  "versionCode": 31,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.6.1.apk",
-  "notes": "Himnario actualizado: se corrigieron las letras y la posicion de los acordes en 77 himnos, comparados contra la partitura. Ademas ya son 50 los himnos con la insignia de verificado (antes 36)."
+  "version": "2.7.0",
+  "versionCode": 32,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.7.0.apk",
+  "notes": "Corregido de raiz: la identificacion de cada persona se calculaba a partir de su nombre, asi que escribirlo distinto creaba otro usuario y los puntos quedaban repartidos. Ahora cada persona tiene un identificador propio y fijo: cambiar el nombre actualiza el mismo registro y conserva puntos, records y racha. Si alguien ya se creo varios registros, al entrar se le ofrece unirlos eligiendo con que nombre se queda. Se pide nombre y apellido reales. A quien no tiene meta de lectura se le explica cada tanto para que sirve, y la notificacion lo invita a crearla. El ranking del Inicio arranca en HOY y se puede cambiar. Con internet y version nueva, la app pide actualizar antes de seguir (sin conexion funciona normal). Corregido: al desmarcar un capitulo de la meta, la ultima lectura vuelve a la anterior real."
 }
