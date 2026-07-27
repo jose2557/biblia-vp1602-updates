@@ -1,6 +1,6 @@
 {
-  "version": "2.7.2",
-  "versionCode": 34,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.7.2.apk",
-  "notes": "Corregido: en los rankings de hoy, semana y mes solo aparecian las personas que ya tenian la ultima version. El arreglo anterior marcaba los totales con la fecha del periodo, y quien no habia actualizado no tenia esa marca y quedaba fuera. Ahora los puntos del periodo se calculan a partir del registro de cada punto, que trae su propia fecha, asi que el ranking sale exacto para todos sin importar que version tengan."
+  "version": "2.8.0",
+  "versionCode": 35,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.8.0.apk",
+  "notes": "La seccion Evaluador ahora se llama Preguntas en toda la app, incluido el ranking (los puntos se conservan). Preguntas reorganizado en mosaicos de dos en dos con el boton de iniciar arriba, igual que en Versiculos. Al iniciar una practica la app lleva sola al cuadro de escritura y muestra una banda que indica que hacer, si el cronometro corre y cuantos quedan. Corregido: la pantalla del ranking quedaba debajo de los botones del telefono."
 }
