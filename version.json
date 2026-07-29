@@ -1,6 +1,6 @@
 {
-  "version": "2.8.0",
-  "versionCode": 35,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.8.0.apk",
-  "notes": "La seccion Evaluador ahora se llama Preguntas en toda la app, incluido el ranking (los puntos se conservan). Preguntas reorganizado en mosaicos de dos en dos con el boton de iniciar arriba, igual que en Versiculos. Al iniciar una practica la app lleva sola al cuadro de escritura y muestra una banda que indica que hacer, si el cronometro corre y cuantos quedan. Corregido: la pantalla del ranking quedaba debajo de los botones del telefono."
+  "version": "2.8.1",
+  "versionCode": 36,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.8.1.apk",
+  "notes": "Corregido grave: la app podia proponer unir las cuentas de dos personas distintas si compartian el mismo versiculo favorito. Ahora se exige nombre + versiculo. Los nombres se comparan sin tildes, asi que el telefono y la tablet llegan a la misma cuenta. Corregido: quien tenia mejor tiempo no se quedaba con el record. Corregido: el cursor saltaba al final al corregir una palabra (era el dictado reescribiendo el texto); ahora al escribir a mano el dictado se detiene. Corregido: dos botones de Iniciar. El perfil ya no es obligatorio. Nuevo: explicacion de como se ganan los puntos y que son los records. Corregido: la ultima linea de la Biblia quedaba tapada. Himnario con 55 verificados."
 }
