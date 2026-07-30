@@ -1,6 +1,6 @@
 {
-  "version": "2.10.0",
-  "versionCode": 47,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.10.0.apk",
-  "notes": "Nuevo: anuncio del evento de agosto en el Inicio de Memorizacion, La Armadura del Creyente (Efesios 6). Los puntos de Mes y los records de velocidad se renuevan cada mes para todos por igual; los de Siempre no se tocan. Se adelanta el sistema de insignias que se esta construyendo: coraza de justicia para quien gane la semana, yelmo de la salvacion para quien gane el mes, espada del Espiritu para quien tenga mas records, y escudo de la fe para la mayor precision estudiando los versiculos. Cambiado: en el ranking ya no hay medalla de segundo ni tercer lugar, solo se marca al primero, sin premio de consolacion. Simplificado: se quito la ventana de diagnostico tecnico del microfono; usa el boton Dictar (teclado) o En la app, el que te funcione."
+  "version": "2.11.0",
+  "versionCode": 48,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.11.0.apk",
+  "notes": "Nuevo: categoria Personalizado en Memorizacion. Elige cualquier versiculo de toda la Biblia (no solo los de las categorias fijas) desde el lector: selecciona uno o varios versiculos y toca Agregar a Memorizar. Quedan privados en tu dispositivo, fuera de puntos, records y ranking. Corregido: el anuncio del evento de agosto (La Armadura del Creyente) ahora explica las 6 piezas completas y como se gana cada una -coraza (ganador de la semana), yelmo (ganador del mes), espada (mas records), escudo (mayor precision), cinturon (100% de precision en el mes) y calzado (racha mas larga del mes)-, aclara que insignias se ven al instante en el ranking y que pasa si se repite una ganadora."
 }
