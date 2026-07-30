@@ -1,6 +1,6 @@
 {
-  "version": "2.9.7",
-  "versionCode": 44,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.9.7.apk",
-  "notes": "ENCONTRADA LA CAUSA DEL MICROFONO. El diagnostico mostro el cuadro completo: permiso concedido, reconocimiento disponible, microfono captando sonido y DOS servicios de voz instalados en el telefono. La app usaba un complemento generico que pide el reconocedor POR DEFECTO y deja que el telefono elija cual; el que el sistema daba por defecto aceptaba la conexion y despues no contestaba nunca (ni resultado, ni error, ni tiempo agotado), asi que la app se quedaba esperando indefinidamente y el boton parecia muerto. Ahora la app le habla DIRECTAMENTE al servicio de voz de Google, sin delegar esa eleccion, y avisa de cada paso: preparando, escuchando, y el motivo concreto si algo falla. Ademas el dictado aguanta pausas de hasta 3 segundos, para recitar un versiculo largo con sus respiros sin que se corte a la mitad."
+  "version": "2.9.8",
+  "versionCode": 45,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.9.8.apk",
+  "notes": "Dictado: la app ya no apuesta por un solo servicio de voz. Los prueba TODOS en cadena y cambia sola al siguiente en cuanto uno falla por un motivo que indique que no sirve. Nuevo: boton para pedir la descarga del ESPANOL del dictado. En este telefono el unico paquete que registra reconocimiento de voz es com.google.android.tts, que es el motor SIN CONEXION, y el propio diagnostico ya decia Sin conexion: no, es decir que el idioma no esta descargado; ese motor acepta la peticion y despues falla por idioma no disponible. Manten pulsado el boton Dictar para encontrar ese boton de descarga. El diagnostico ahora muestra ademas que servicio llego a escuchar y el codigo de error de cada intento."
 }
