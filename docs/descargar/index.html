@@ -57,7 +57,7 @@
 // Se lee el manifiesto de versiones para mostrar cuál es la actual y
 // apuntar el botón al archivo exacto. Si algo falla, el enlace fijo
 // "-latest.apk" sigue funcionando igual.
-fetch('../../version.json?t=' + Date.now())
+fetch('../version.json?t=' + Date.now())
   .then(function (r) { return r.json(); })
   .then(function (j) {
     document.getElementById('ver').textContent = 'Versión ' + j.version;
