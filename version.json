@@ -1,6 +1,6 @@
 {
-  "version": "2.9.1",
-  "versionCode": 38,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.9.1.apk",
-  "notes": "Corregido lo mas importante: a varios hermanos con Android la app se les CERRABA al pulsar el boton de reproducir la voz de un versiculo. Android exige que el reproductor se anuncie en menos de 5 segundos y, segun por donde arrancara, no se anunciaba, asi que el sistema mataba la aplicacion. Ya esta resuelto y ademas cualquier fallo del reproductor lo apaga a el solo, sin arrastrar la app. Nuevo: seccion de NINOS en Memorizar, con los 36 versiculos de memoria de 2026 (tres por mes). Corregido: esos versiculos de ninos habian quedado mezclados con los del mes; los versiculos del mes vuelven a ser los de siempre. Corregido: el zoom del himnario ahora es real. Antes se subia el tamano de letra y las lineas largas se encogian solas para caber, asi que casi no se notaba; ahora se respeta el tamano elegido, los acordes crecen con la letra, cada uno sigue sobre su silaba y si la linea no cabe continua en la siguiente."
+  "version": "2.9.2",
+  "versionCode": 39,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.9.2.apk",
+  "notes": "Encontrada la causa del microfono: desde Android 11 una app solo puede usar el reconocimiento de voz del sistema si lo declara expresamente, y esa declaracion faltaba. Para el telefono, el dictado sencillamente no existia; por eso funcionaba en Android 10 y anteriores y fallaba en los telefonos nuevos. Ya esta declarado (tambien el servicio de la voz que lee los versiculos). Ademas, si el dictado falla, ahora la app dice la causa concreta y que hacer. Encontrada la causa de que Iniciar no llevara al cuadro de escritura: la pantalla solo construye lo que se ve, asi que el cuadro todavia NO EXISTIA cuando se intentaba saltar a el y el salto no encontraba destino. Ahora se baja hasta crearlo y queda centrado por encima del teclado. Y el cronometro arranca al llegar al cuadro, no al pulsar Iniciar, para no perder segundos buscando donde escribir."
 }
