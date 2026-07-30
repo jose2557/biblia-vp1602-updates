@@ -1,6 +1,6 @@
 {
-  "version": "2.9.0",
-  "versionCode": 37,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.9.0.apk",
-  "notes": "Versiculos de Memoria 2026 completos: los 12 meses con sus 3 versiculos, con el texto de la Valera Purificada. Plan de lectura en una sola pantalla: si ya tienes plan se muestra directo, y hay un boton para generar otro. Corregido: decia que ibas adelantado por registrar de golpe capitulos leidos antes de instalar la app; ahora el adelanto se mide contra el calendario del plan. La pantalla de Versiculos se simplifico: fuera la meta diaria y los contadores, modo y cronometro a la vista. Nuevo: toca un record de otra persona y la app arranca ese versiculo para que intentes superarlo."
+  "version": "2.9.1",
+  "versionCode": 38,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.9.1.apk",
+  "notes": "Corregido lo mas importante: a varios hermanos con Android la app se les CERRABA al pulsar el boton de reproducir la voz de un versiculo. Android exige que el reproductor se anuncie en menos de 5 segundos y, segun por donde arrancara, no se anunciaba, asi que el sistema mataba la aplicacion. Ya esta resuelto y ademas cualquier fallo del reproductor lo apaga a el solo, sin arrastrar la app. Nuevo: seccion de NINOS en Memorizar, con los 36 versiculos de memoria de 2026 (tres por mes). Corregido: esos versiculos de ninos habian quedado mezclados con los del mes; los versiculos del mes vuelven a ser los de siempre. Corregido: el zoom del himnario ahora es real. Antes se subia el tamano de letra y las lineas largas se encogian solas para caber, asi que casi no se notaba; ahora se respeta el tamano elegido, los acordes crecen con la letra, cada uno sigue sobre su silaba y si la linea no cabe continua en la siguiente."
 }
