@@ -1,0 +1,470 @@
+{
+ "voz": "es_MX-claude-high",
+ "kbps": 32,
+ "pistas": {
+  "Génesis 1:1": {
+   "archivo": "genesis_1_1.opus",
+   "segundos": 7.08
+  },
+  "Josué 1:8": {
+   "archivo": "josue_1_8.opus",
+   "segundos": 17.22
+  },
+  "Josué 1:9": {
+   "archivo": "josue_1_9.opus",
+   "segundos": 11.45
+  },
+  "1 Crónicas 16:10": {
+   "archivo": "1_cronicas_16_10.opus",
+   "segundos": 8.87
+  },
+  "1 Crónicas 28:20": {
+   "archivo": "1_cronicas_28_20.opus",
+   "segundos": 21.79
+  },
+  "2 Crónicas 15:7": {
+   "archivo": "2_cronicas_15_7.opus",
+   "segundos": 10.46
+  },
+  "Esdras 7:10": {
+   "archivo": "esdras_7_10.opus",
+   "segundos": 11.23
+  },
+  "Nehemías 4:18": {
+   "archivo": "nehemias_4_18.opus",
+   "segundos": 13.22
+  },
+  "Salmos 27:1": {
+   "archivo": "salmos_27_1.opus",
+   "segundos": 11.91
+  },
+  "Salmos 37:4": {
+   "archivo": "salmos_37_4.opus",
+   "segundos": 8.94
+  },
+  "Salmos 37:5": {
+   "archivo": "salmos_37_5.opus",
+   "segundos": 8.35
+  },
+  "Salmos 112:7": {
+   "archivo": "salmos_112_7.opus",
+   "segundos": 9.52
+  },
+  "Salmos 119:9": {
+   "archivo": "salmos_119_9.opus",
+   "segundos": 8.17
+  },
+  "Salmos 119:111": {
+   "archivo": "salmos_119_111.opus",
+   "segundos": 9.69
+  },
+  "Salmos 126:6": {
+   "archivo": "salmos_126_6.opus",
+   "segundos": 11.11
+  },
+  "Salmos 133:1": {
+   "archivo": "salmos_133_1.opus",
+   "segundos": 9.25
+  },
+  "Salmos 138:2": {
+   "archivo": "salmos_138_2.opus",
+   "segundos": 13.32
+  },
+  "Proverbios 4:18": {
+   "archivo": "proverbios_4_18.opus",
+   "segundos": 10.52
+  },
+  "Proverbios 10:5": {
+   "archivo": "proverbios_10_5.opus",
+   "segundos": 10.23
+  },
+  "Proverbios 20:11": {
+   "archivo": "proverbios_20_11.opus",
+   "segundos": 8.61
+  },
+  "Proverbios 27:17": {
+   "archivo": "proverbios_27_17.opus",
+   "segundos": 8.68
+  },
+  "Eclesiastés 11:8": {
+   "archivo": "eclesiastes_11_8.opus",
+   "segundos": 17.4
+  },
+  "Jeremías 15:16": {
+   "archivo": "jeremias_15_16.opus",
+   "segundos": 14.42
+  },
+  "Nahum 2:1": {
+   "archivo": "nahum_2_1.opus",
+   "segundos": 11.59
+  },
+  "Habacuc 3:18": {
+   "archivo": "habacuc_3_18.opus",
+   "segundos": 8.94
+  },
+  "San Mateo 13:25": {
+   "archivo": "san_mateo_13_25.opus",
+   "segundos": 10.16
+  },
+  "San Mateo 24:42": {
+   "archivo": "san_mateo_24_42.opus",
+   "segundos": 8.05
+  },
+  "San Mateo 24:43": {
+   "archivo": "san_mateo_24_43.opus",
+   "segundos": 13.07
+  },
+  "San Mateo 26:43": {
+   "archivo": "san_mateo_26_43.opus",
+   "segundos": 9.06
+  },
+  "Marcos 13:33": {
+   "archivo": "marcos_13_33.opus",
+   "segundos": 8.27
+  },
+  "San Lucas 2:10-11": {
+   "archivo": "san_lucas_2_10_11.opus",
+   "segundos": 16.56
+  },
+  "San Lucas 14:28": {
+   "archivo": "san_lucas_14_28.opus",
+   "segundos": 13.49
+  },
+  "San Lucas 21:34": {
+   "archivo": "san_lucas_21_34.opus",
+   "segundos": 14.51
+  },
+  "Juan 5:39": {
+   "archivo": "juan_5_39.opus",
+   "segundos": 12.79
+  },
+  "Juan 6:63": {
+   "archivo": "juan_6_63.opus",
+   "segundos": 12.2
+  },
+  "Juan 11:11": {
+   "archivo": "juan_11_11.opus",
+   "segundos": 10.76
+  },
+  "Hechos 20:24": {
+   "archivo": "hechos_20_24.opus",
+   "segundos": 17.24
+  },
+  "Romanos 1:16": {
+   "archivo": "romanos_1_16.opus",
+   "segundos": 13.7
+  },
+  "Romanos 3:23": {
+   "archivo": "romanos_3_23.opus",
+   "segundos": 7.81
+  },
+  "Romanos 5:8": {
+   "archivo": "romanos_5_8.opus",
+   "segundos": 10.1
+  },
+  "Romanos 6:23": {
+   "archivo": "romanos_6_23.opus",
+   "segundos": 10.33
+  },
+  "Romanos 8:17": {
+   "archivo": "romanos_8_17.opus",
+   "segundos": 15.64
+  },
+  "Romanos 8:38-39": {
+   "archivo": "romanos_8_38_39.opus",
+   "segundos": 22.13
+  },
+  "Romanos 10:9-10": {
+   "archivo": "romanos_10_9_10.opus",
+   "segundos": 17.21
+  },
+  "Romanos 12:15": {
+   "archivo": "romanos_12_15.opus",
+   "segundos": 7.74
+  },
+  "Romanos 13:11": {
+   "archivo": "romanos_13_11.opus",
+   "segundos": 12.63
+  },
+  "1 Corintios 2:5": {
+   "archivo": "1_corintios_2_5.opus",
+   "segundos": 8.87
+  },
+  "1 Corintios 3:10": {
+   "archivo": "1_corintios_3_10.opus",
+   "segundos": 15.77
+  },
+  "1 Corintios 3:14": {
+   "archivo": "1_corintios_3_14.opus",
+   "segundos": 8.43
+  },
+  "1 Corintios 12:13": {
+   "archivo": "1_corintios_12_13.opus",
+   "segundos": 14.22
+  },
+  "1 Corintios 13:13": {
+   "archivo": "1_corintios_13_13.opus",
+   "segundos": 11.88
+  },
+  "1 Corintios 14:40": {
+   "archivo": "1_corintios_14_40.opus",
+   "segundos": 7.91
+  },
+  "1 Corintios 15:3-4": {
+   "archivo": "1_corintios_15_3_4.opus",
+   "segundos": 17.43
+  },
+  "1 Corintios 15:34": {
+   "archivo": "1_corintios_15_34.opus",
+   "segundos": 12.02
+  },
+  "1 Corintios 15:58": {
+   "archivo": "1_corintios_15_58.opus",
+   "segundos": 15.13
+  },
+  "1 Corintios 16:13": {
+   "archivo": "1_corintios_16_13.opus",
+   "segundos": 9.49
+  },
+  "2 Corintios 4:3-4": {
+   "archivo": "2_corintios_4_3_4.opus",
+   "segundos": 20.02
+  },
+  "2 Corintios 4:18": {
+   "archivo": "2_corintios_4_18.opus",
+   "segundos": 13.46
+  },
+  "2 Corintios 5:10": {
+   "archivo": "2_corintios_5_10.opus",
+   "segundos": 16.14
+  },
+  "2 Corintios 5:18": {
+   "archivo": "2_corintios_5_18.opus",
+   "segundos": 13.5
+  },
+  "2 Corintios 5:21": {
+   "archivo": "2_corintios_5_21.opus",
+   "segundos": 11.85
+  },
+  "2 Corintios 7:1": {
+   "archivo": "2_corintios_7_1.opus",
+   "segundos": 16.09
+  },
+  "2 Corintios 9:7": {
+   "archivo": "2_corintios_9_7.opus",
+   "segundos": 11.87
+  },
+  "2 Corintios 10:4-5": {
+   "archivo": "2_corintios_10_4_5.opus",
+   "segundos": 20.94
+  },
+  "2 Corintios 13:14": {
+   "archivo": "2_corintios_13_14.opus",
+   "segundos": 12.07
+  },
+  "Gálatas 2:20": {
+   "archivo": "galatas_2_20.opus",
+   "segundos": 16.96
+  },
+  "Gálatas 2:21": {
+   "archivo": "galatas_2_21.opus",
+   "segundos": 10.05
+  },
+  "Gálatas 5:16": {
+   "archivo": "galatas_5_16.opus",
+   "segundos": 9.2
+  },
+  "Gálatas 6:2": {
+   "archivo": "galatas_6_2.opus",
+   "segundos": 8.35
+  },
+  "Efesios 2:8-9": {
+   "archivo": "efesios_2_8_9.opus",
+   "segundos": 11.8
+  },
+  "Efesios 2:20-21": {
+   "archivo": "efesios_2_20_21.opus",
+   "segundos": 18.2
+  },
+  "Efesios 4:3": {
+   "archivo": "efesios_4_3.opus",
+   "segundos": 6.87
+  },
+  "Efesios 4:12": {
+   "archivo": "efesios_4_12.opus",
+   "segundos": 9.31
+  },
+  "Efesios 5:14": {
+   "archivo": "efesios_5_14.opus",
+   "segundos": 10.68
+  },
+  "Efesios 6:1": {
+   "archivo": "efesios_6_1.opus",
+   "segundos": 7.93
+  },
+  "Efesios 6:10": {
+   "archivo": "efesios_6_10.opus",
+   "segundos": 8.72
+  },
+  "Efesios 6:13": {
+   "archivo": "efesios_6_13.opus",
+   "segundos": 11.44
+  },
+  "Filipenses 1:10": {
+   "archivo": "filipenses_1_10.opus",
+   "segundos": 9.22
+  },
+  "Filipenses 1:21": {
+   "archivo": "filipenses_1_21.opus",
+   "segundos": 7.59
+  },
+  "Filipenses 1:27": {
+   "archivo": "filipenses_1_27.opus",
+   "segundos": 20.33
+  },
+  "Filipenses 3:10": {
+   "archivo": "filipenses_3_10.opus",
+   "segundos": 11.26
+  },
+  "Filipenses 3:14": {
+   "archivo": "filipenses_3_14.opus",
+   "segundos": 8.57
+  },
+  "Filipenses 4:1": {
+   "archivo": "filipenses_4_1.opus",
+   "segundos": 12.46
+  },
+  "Filipenses 4:4": {
+   "archivo": "filipenses_4_4.opus",
+   "segundos": 7.98
+  },
+  "Filipenses 4:6": {
+   "archivo": "filipenses_4_6.opus",
+   "segundos": 13.0
+  },
+  "Colosenses 2:6": {
+   "archivo": "colosenses_2_6.opus",
+   "segundos": 8.94
+  },
+  "Colosenses 3:2": {
+   "archivo": "colosenses_3_2.opus",
+   "segundos": 7.65
+  },
+  "Colosenses 3:16": {
+   "archivo": "colosenses_3_16.opus",
+   "segundos": 18.47
+  },
+  "Colosenses 3:23-24": {
+   "archivo": "colosenses_3_23_24.opus",
+   "segundos": 15.09
+  },
+  "1 Tesalonicenses 5:6": {
+   "archivo": "1_tesalonicenses_5_6.opus",
+   "segundos": 9.09
+  },
+  "1 Tesalonicenses 5:23": {
+   "archivo": "1_tesalonicenses_5_23.opus",
+   "segundos": 15.29
+  },
+  "2 Tesalonicenses 2:15": {
+   "archivo": "2_tesalonicenses_2_15.opus",
+   "segundos": 12.64
+  },
+  "1 Timoteo 2:5": {
+   "archivo": "1_timoteo_2_5.opus",
+   "segundos": 9.85
+  },
+  "1 Timoteo 3:16": {
+   "archivo": "1_timoteo_3_16.opus",
+   "segundos": 18.1
+  },
+  "1 Timoteo 4:7": {
+   "archivo": "1_timoteo_4_7.opus",
+   "segundos": 8.89
+  },
+  "1 Timoteo 4:12": {
+   "archivo": "1_timoteo_4_12.opus",
+   "segundos": 13.83
+  },
+  "1 Timoteo 4:14": {
+   "archivo": "1_timoteo_4_14.opus",
+   "segundos": 10.81
+  },
+  "2 Timoteo 1:7": {
+   "archivo": "2_timoteo_1_7.opus",
+   "segundos": 10.03
+  },
+  "2 Timoteo 2:1": {
+   "archivo": "2_timoteo_2_1.opus",
+   "segundos": 8.36
+  },
+  "2 Timoteo 2:2": {
+   "archivo": "2_timoteo_2_2.opus",
+   "segundos": 11.52
+  },
+  "2 Timoteo 2:15": {
+   "archivo": "2_timoteo_2_15.opus",
+   "segundos": 11.87
+  },
+  "2 Timoteo 3:12": {
+   "archivo": "2_timoteo_3_12.opus",
+   "segundos": 9.3
+  },
+  "2 Timoteo 3:14-15": {
+   "archivo": "2_timoteo_3_14_15.opus",
+   "segundos": 19.49
+  },
+  "2 Timoteo 3:16-17": {
+   "archivo": "2_timoteo_3_16_17.opus",
+   "segundos": 18.73
+  },
+  "2 Timoteo 4:2": {
+   "archivo": "2_timoteo_4_2.opus",
+   "segundos": 12.77
+  },
+  "2 Timoteo 4:5": {
+   "archivo": "2_timoteo_4_5.opus",
+   "segundos": 11.16
+  },
+  "Tito 2:1": {
+   "archivo": "tito_2_1.opus",
+   "segundos": 6.46
+  },
+  "Hebreos 4:12": {
+   "archivo": "hebreos_4_12.opus",
+   "segundos": 17.0
+  },
+  "Hebreos 11:33": {
+   "archivo": "hebreos_11_33.opus",
+   "segundos": 10.55
+  },
+  "1 Pedro 2:20": {
+   "archivo": "1_pedro_2_20.opus",
+   "segundos": 14.71
+  },
+  "Deuteronomio 6:5": {
+   "archivo": "deuteronomio_6_5.opus",
+   "segundos": 9.78
+  },
+  "Proverbios 1:7": {
+   "archivo": "proverbios_1_7.opus",
+   "segundos": 10.37
+  },
+  "Salmos 40:1": {
+   "archivo": "salmos_40_1.opus",
+   "segundos": 8.24
+  },
+  "Romanos 10:9": {
+   "archivo": "romanos_10_9.opus",
+   "segundos": 11.17
+  },
+  "1 Corintios 10:11": {
+   "archivo": "1_corintios_10_11.opus",
+   "segundos": 12.76
+  },
+  "Colosenses 3:20": {
+   "archivo": "colosenses_3_20.opus",
+   "segundos": 8.06
+  }
+ }
+}

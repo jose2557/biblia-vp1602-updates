@@ -1,6 +1,6 @@
 {
-  "version": "2.9.2",
-  "versionCode": 39,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.9.2.apk",
-  "notes": "Encontrada la causa del microfono: desde Android 11 una app solo puede usar el reconocimiento de voz del sistema si lo declara expresamente, y esa declaracion faltaba. Para el telefono, el dictado sencillamente no existia; por eso funcionaba en Android 10 y anteriores y fallaba en los telefonos nuevos. Ya esta declarado (tambien el servicio de la voz que lee los versiculos). Ademas, si el dictado falla, ahora la app dice la causa concreta y que hacer. Encontrada la causa de que Iniciar no llevara al cuadro de escritura: la pantalla solo construye lo que se ve, asi que el cuadro todavia NO EXISTIA cuando se intentaba saltar a el y el salto no encontraba destino. Ahora se baja hasta crearlo y queda centrado por encima del teclado. Y el cronometro arranca al llegar al cuadro, no al pulsar Iniciar, para no perder segundos buscando donde escribir."
+  "version": "2.9.4",
+  "versionCode": 41,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.9.4.apk",
+  "notes": "Nuevo: los versiculos de memorizacion vienen GRABADOS dentro de la app con una voz mexicana natural. Antes leia la voz que trajera cada telefono y salia muy desigual: unos con acento de Espana, otros roboticos y algunos sin ninguna voz en espanol. Ahora todos oyen lo mismo y sin internet. Quien prefiera la voz de su telefono puede volver a ella en las opciones de audio. Nuevo: barra de velocidad en el propio reproductor, con boton para volver a 1x. Corregido: las referencias se leen como se dicen, Primera de Timoteo capitulo 4 versiculo 14 en vez de uno Timoteo cuatro dos puntos catorce. Corregido: nombres de libro que no coincidian con la Valera Purificada (Salmo por Salmos, Mateo por San Mateo, Lucas por San Lucas) y 3 versiculos repetidos. Dictado: si el microfono no arranca, la app consulta al sistema que hay instalado y explica la causa concreta, y prueba con la ventana de dictado del propio telefono antes de rendirse."
 }
