@@ -1,6 +1,6 @@
 {
-  "version": "2.9.5",
-  "versionCode": 42,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.9.5.apk",
-  "notes": "Corregido: las notificaciones programadas no llegaban NUNCA aunque la de prueba si. La de prueba la muestra la app al instante; las programadas las despierta el reloj del sistema y hacia falta declarar un receptor que las recoja. No estaba declarado, asi que la alarma sonaba en el vacio. Tambien se perdian al reiniciar el telefono o al actualizar la app; eso tambien quedo resuelto. Corregido: aunque estuviera elegida la voz grabada, seguia leyendo la del telefono, porque los archivos se buscaban en una ruta equivocada dentro de la propia app. Corregido: el boton de atras cerraba la app de golpe en mitad de un repaso; ahora cierra la practica, luego vuelve al Inicio de Memorizacion, luego a la Biblia, y solo entonces sale. Cambiado: los modos de Versiculos se llaman ahora VERSO y CITA. Dictado: si el reconocimiento de voz no responde se corta a los 5 segundos, en vez de dejar el boton mudo para siempre."
+  "version": "2.9.6",
+  "versionCode": 43,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.9.6.apk",
+  "notes": "Corregido: desde el Inicio de Memorizacion, tocar Aprender, Versiculos o Preguntas no llevaba a esas pantallas y solo servian las pestanas de arriba. Fue un error introducido al arreglar el boton de atras. Nuevo: PRUEBA REAL DEL MICROFONO. Manten pulsado el boton Dictar y se abre el diagnostico; alli hay un boton que graba dos segundos y mide cuanto sonido entra de verdad. Sirve para distinguir dos fallos que desde fuera se ven identicos: que la app no consiga usar el reconocimiento de voz, o que el telefono tenga cortado el acceso al microfono para TODAS las aplicaciones (en ese caso la app graba pero solo entra silencio, y el arreglo esta en los ajustes del telefono, no en la app). Al pulsar el microfono el mensaje cambia al instante, para que nunca parezca que el boton esta muerto."
 }
