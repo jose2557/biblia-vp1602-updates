@@ -1,6 +1,6 @@
 {
-  "version": "2.9.9",
-  "versionCode": 46,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.9.9.apk",
-  "notes": "El boton Dictar ahora abre el cuadro de escritura con el teclado, para dictar con el microfono DEL TECLADO. El dictado interno pasa a un segundo boton, En la app. Motivo: los codigos de error mostraron que en algunos telefonos NINGUN servicio de reconocimiento de voz llega a escuchar (Servicio que escucho: ninguno, con errores 9, 11, 5 y 13 en todos los intentos). Eso no lo puede arreglar la app: el telefono no trae un reconocedor funcional. El microfono del teclado no depende de ese servicio y funciona en todos los telefonos. Corregido tambien: los reintentos entre servicios se disparaban unos a otros y generaban una tormenta de errores; el dictado interno no pedia el permiso de microfono al usarlo; y la app describia una ruta de Ajustes que en algunos telefonos no existe, asi que ahora hay un boton que ABRE esa pantalla directamente."
+  "version": "2.10.0",
+  "versionCode": 47,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.10.0.apk",
+  "notes": "Nuevo: anuncio del evento de agosto en el Inicio de Memorizacion, La Armadura del Creyente (Efesios 6). Los puntos de Mes y los records de velocidad se renuevan cada mes para todos por igual; los de Siempre no se tocan. Se adelanta el sistema de insignias que se esta construyendo: coraza de justicia para quien gane la semana, yelmo de la salvacion para quien gane el mes, espada del Espiritu para quien tenga mas records, y escudo de la fe para la mayor precision estudiando los versiculos. Cambiado: en el ranking ya no hay medalla de segundo ni tercer lugar, solo se marca al primero, sin premio de consolacion. Simplificado: se quito la ventana de diagnostico tecnico del microfono; usa el boton Dictar (teclado) o En la app, el que te funcione."
 }
