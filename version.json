@@ -1,6 +1,6 @@
 {
-  "version": "2.11.3",
-  "versionCode": 51,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.11.3.apk",
-  "notes": "Corregido: con Modo Live activado, cualquier seccion que no fuera estrofa ni coro (puente, segunda voz) desaparecia sin avisar; por eso el discanto del himno 99 no se veia. Ya se muestra al final, con Modo Live activado o no."
+  "version": "2.12.0",
+  "versionCode": 52,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.0.apk",
+  "notes": "Nuevo: sistema de insignias La Armadura del Creyente (Efesios 6). Seis piezas -coraza (ganador de la semana), yelmo (ganador del mes), espada (mas records del mes), escudo (mayor precision historica), cinturon (100% de precision en todo el mes) y calzado (racha mas larga del mes)- que se otorgan automaticamente al cerrar cada semana o mes. La coraza y el cinturon se muestran de inmediato junto al nombre en el ranking. Repetir una pieza la sube de categoria (bronce, plata, oro). Nuevo: Armadura Completa para quien reuna las 6 piezas, con marca junto al nombre y un lugar en el nuevo Salon de la fe. Nuevo: pantalla Insignias desde el Inicio de Memorizar, y una insignia especial Primer registro para quien lidero julio de 2026."
 }
