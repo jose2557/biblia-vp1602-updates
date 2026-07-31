@@ -1,6 +1,6 @@
 {
-  "version": "2.11.2",
-  "versionCode": 50,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.11.2.apk",
-  "notes": "Corregido: los records de velocidad de antes de la actualizacion que los renueva cada mes se quedaron sin la marca del mes y por eso parecia que a nadie le quedaba ninguno; ya se recuperan. Corregido: la referencia del versiculo ya no aparece repetida en la tarjeta de practica, se ve una sola vez pegada al cuadro de escritura."
+  "version": "2.11.3",
+  "versionCode": 51,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.11.3.apk",
+  "notes": "Corregido: con Modo Live activado, cualquier seccion que no fuera estrofa ni coro (puente, segunda voz) desaparecia sin avisar; por eso el discanto del himno 99 no se veia. Ya se muestra al final, con Modo Live activado o no."
 }
