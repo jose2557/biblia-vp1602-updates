@@ -1,6 +1,6 @@
 {
-  "version": "2.11.1",
-  "versionCode": 49,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.11.1.apk",
-  "notes": "Mejorado: la referencia del versiculo que toca escribir ahora se repite justo encima del cuadro de texto durante la practica, para no tener que subir y bajar la pantalla cada vez. Mejorado: la tarjeta de Ranking en el Inicio ahora muestra los primeros 5 puestos de cada periodo (antes solo se veia al primero). Nuevo: se agrego un discanto (segunda voz, version alternativa sin acordes) al final del himno 99, Quiero Alabarte."
+  "version": "2.11.2",
+  "versionCode": 50,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.11.2.apk",
+  "notes": "Corregido: los records de velocidad de antes de la actualizacion que los renueva cada mes se quedaron sin la marca del mes y por eso parecia que a nadie le quedaba ninguno; ya se recuperan. Corregido: la referencia del versiculo ya no aparece repetida en la tarjeta de practica, se ve una sola vez pegada al cuadro de escritura."
 }
