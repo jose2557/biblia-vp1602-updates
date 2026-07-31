@@ -1,6 +1,6 @@
 {
-  "version": "2.11.0",
-  "versionCode": 48,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.11.0.apk",
-  "notes": "Nuevo: categoria Personalizado en Memorizacion. Elige cualquier versiculo de toda la Biblia (no solo los de las categorias fijas) desde el lector: selecciona uno o varios versiculos y toca Agregar a Memorizar. Quedan privados en tu dispositivo, fuera de puntos, records y ranking. Corregido: el anuncio del evento de agosto (La Armadura del Creyente) ahora explica las 6 piezas completas y como se gana cada una -coraza (ganador de la semana), yelmo (ganador del mes), espada (mas records), escudo (mayor precision), cinturon (100% de precision en el mes) y calzado (racha mas larga del mes)-, aclara que insignias se ven al instante en el ranking y que pasa si se repite una ganadora."
+  "version": "2.11.1",
+  "versionCode": 49,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.11.1.apk",
+  "notes": "Mejorado: la referencia del versiculo que toca escribir ahora se repite justo encima del cuadro de texto durante la practica, para no tener que subir y bajar la pantalla cada vez. Mejorado: la tarjeta de Ranking en el Inicio ahora muestra los primeros 5 puestos de cada periodo (antes solo se veia al primero). Nuevo: se agrego un discanto (segunda voz, version alternativa sin acordes) al final del himno 99, Quiero Alabarte."
 }
