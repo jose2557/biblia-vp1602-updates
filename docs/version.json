@@ -1,6 +1,6 @@
 {
-  "version": "2.12.4",
-  "versionCode": 56,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.4.apk",
-  "notes": "Nuevo: la insignia especial \"Primer ganador\" (julio 2026) ahora tiene su propio medallon de laurel dorado, en vez del icono generico. Nuevo: indice de dominio del mes junto al nombre, con 7 niveles (Aprendiz a Campeon), visible en el ranking y en la ficha de cada persona. Se renueva cada mes. Cambiado: el escudo de la fe ahora se gana por el mayor indice de dominio DEL MES que se cierra, no por la precision historica de siempre."
+  "version": "2.12.5",
+  "versionCode": 57,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.5.apk",
+  "notes": "Corregido (importante): las insignias de la Armadura del Creyente -incluida Primer ganador- nunca se habian otorgado por un error de fondo: la revision de cierres arrancaba antes de que la conexion con la nube terminara de listarse. Ya esta corregido. Corregido: al actualizar no se mostraba el resumen de que hay de nuevo. Nuevo: medallon de laurel para Primer ganador, indice de dominio mensual con 7 niveles junto al nombre, y el escudo de la fe ahora es mensual."
 }
