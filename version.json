@@ -1,6 +1,6 @@
 {
-  "version": "2.12.3",
-  "versionCode": 55,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.3.apk",
-  "notes": "Corregido: en el modo inverso de practica, la cita del proximo versiculo se alcanzaba a ver un instante durante la animacion antes de responder. Ya no aparece hasta que se contesta. Corregido: algunos records de velocidad no se estaban adjudicando aunque el tiempo fuera mejor, por fallos de conexion en el momento de guardarlo. Ahora se reintenta automaticamente hasta confirmarse."
+  "version": "2.12.4",
+  "versionCode": 56,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.4.apk",
+  "notes": "Nuevo: la insignia especial \"Primer ganador\" (julio 2026) ahora tiene su propio medallon de laurel dorado, en vez del icono generico. Nuevo: indice de dominio del mes junto al nombre, con 7 niveles (Aprendiz a Campeon), visible en el ranking y en la ficha de cada persona. Se renueva cada mes. Cambiado: el escudo de la fe ahora se gana por el mayor indice de dominio DEL MES que se cierra, no por la precision historica de siempre."
 }
