@@ -1,6 +1,6 @@
 {
-  "version": "2.12.1",
-  "versionCode": 53,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.1.apk",
-  "notes": "Corregido: tocar el récord de otra persona en su ficha para practicar ese versículo no hacía nada si antes no habías entrado a la pestaña Versículos en esa sesión. Ya funciona siempre. Corregido: el aviso de versión nueva ahora se revisa cada 5 minutos (antes cada 30) para que no tarde tanto si dejas la app abierta un buen rato. Mejorado: descripcion en el Salon de la fe, insignias sin ganar mas apagadas (solo contorno), e iconos propios en el anuncio del evento de agosto."
+  "version": "2.12.3",
+  "versionCode": 55,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.3.apk",
+  "notes": "Corregido: en el modo inverso de practica, la cita del proximo versiculo se alcanzaba a ver un instante durante la animacion antes de responder. Ya no aparece hasta que se contesta. Corregido: algunos records de velocidad no se estaban adjudicando aunque el tiempo fuera mejor, por fallos de conexion en el momento de guardarlo. Ahora se reintenta automaticamente hasta confirmarse."
 }
