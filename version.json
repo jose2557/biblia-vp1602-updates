@@ -1,6 +1,6 @@
 {
-  "version": "2.12.5",
-  "versionCode": 57,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.5.apk",
-  "notes": "Corregido (importante): las insignias de la Armadura del Creyente -incluida Primer ganador- nunca se habian otorgado por un error de fondo: la revision de cierres arrancaba antes de que la conexion con la nube terminara de listarse. Ya esta corregido. Corregido: al actualizar no se mostraba el resumen de que hay de nuevo. Nuevo: medallon de laurel para Primer ganador, indice de dominio mensual con 7 niveles junto al nombre, y el escudo de la fe ahora es mensual."
+  "version": "2.12.6",
+  "versionCode": 58,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.6.apk",
+  "notes": "Corregido: la insignia Primer ganador (julio 2026) y las piezas de la armadura se guardaban bien, pero no se copiaban al perfil para mostrarse junto al nombre en el ranking y la ficha. Ya se ve en ambos lugares apenas se otorga. Nuevo: Tablon de ganadores en el Salon de la fe, empezando por julio 2026 y sumando cada mes las nuevas piezas otorgadas."
 }
