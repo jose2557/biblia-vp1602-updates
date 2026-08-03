@@ -1,6 +1,6 @@
 {
-  "version": "2.12.8",
-  "versionCode": 60,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.8.apk",
-  "notes": "Corregido de fondo: la regla de records en Firestore no distinguia entre meses, y algunos versiculos al 100% no quedaban como record. Corregido: al retar el record de otra persona ahora salta de una vez a escribir el versiculo. Cambiado: boton de comprobar pegado al cuadro de escritura, sin tener que bajar la pantalla. Nuevo: acceso directo al Salon de la fe desde Inicio, con el ultimo reconocimiento entregado."
+  "version": "2.12.9",
+  "versionCode": 61,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.9.apk",
+  "notes": "Corregido de fondo: en 2.12.8 el salto directo al retar el record de otra persona seguia sin verse. Causa real: ese flujo siempre pasa por la pantalla de Ranking, que se abre encima del Inicio; el cambio de pestana quedaba oculto detras de esa pantalla hasta salir de ella a mano. Ahora se cierra esa pantalla automaticamente antes de cambiar de pestana."
 }
