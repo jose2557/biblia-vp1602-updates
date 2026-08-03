@@ -1,6 +1,6 @@
 {
-  "version": "2.12.7",
-  "versionCode": 59,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.7.apk",
-  "notes": "Nuevo: versiculos de memoria de agosto 2026 (2 Corintios 5:18 a Colosenses 2:6). Nuevo: categoria Records en el ranking, ordenada por cuantos versiculos tiene cada quien en record de velocidad este mes. Corregido de fondo: faltaban reglas de seguridad en Firestore para las insignias y los cierres de mes/semana, por lo que nunca se habian podido guardar. Ya esta corregido del lado del servidor."
+  "version": "2.12.8",
+  "versionCode": 60,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.8.apk",
+  "notes": "Corregido de fondo: la regla de records en Firestore no distinguia entre meses, y algunos versiculos al 100% no quedaban como record. Corregido: al retar el record de otra persona ahora salta de una vez a escribir el versiculo. Cambiado: boton de comprobar pegado al cuadro de escritura, sin tener que bajar la pantalla. Nuevo: acceso directo al Salon de la fe desde Inicio, con el ultimo reconocimiento entregado."
 }
