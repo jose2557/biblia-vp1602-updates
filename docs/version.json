@@ -1,6 +1,6 @@
 {
-  "version": "2.12.12",
-  "versionCode": 64,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.12.apk",
-  "notes": "Corregido: la insignia del indice de dominio (escudo con numero junto al nombre) solo se mostraba a partir del nivel Soldado (25% o mas). Ahora se muestra siempre que haya actividad registrada este mes, en cualquier nivel, para que todos vean su insignia real."
+  "version": "2.12.13",
+  "versionCode": 65,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.13.apk",
+  "notes": "Corregido de fondo: el boton Ya actualice / reintentar de la pantalla de actualizacion obligatoria dejaba pasar sin comprobar nada, permitiendo seguir usando una version vieja sin darse cuenta. Ahora si vuelve a verificar de verdad antes de dejar continuar."
 }
