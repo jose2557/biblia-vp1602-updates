@@ -1,6 +1,6 @@
 {
-  "version": "2.12.10",
-  "versionCode": 62,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.10.apk",
-  "notes": "Nuevo: el escudo del indice de dominio (junto al nombre y en Insignias) ahora muestra el numero exacto del porcentaje adentro, no solo un color. Nuevo: seccion 'Indice de dominio de este mes' en Insignias, con tu nivel y la leyenda completa de los 7 niveles y colores. Cambiado: junto al nombre ya no aparece el texto de la insignia, solo el icono -tocala para ver su significado en detalle."
+  "version": "2.12.11",
+  "versionCode": 63,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.11.apk",
+  "notes": "Cambiado: llegar al 100% de precision en un versiculo ya no topa los puntos de ese versiculo para siempre. Ahora, en cuanto se llega al 100%, se puede volver a practicar el mismo versiculo y sumar puntos otra vez, hasta llegar al 100% de nuevo -y asi sucesivamente. Confirmado sin cambios: el indice de dominio del mes se mide sobre el total de los 116 versiculos del sistema, no solo los del mes en curso."
 }
