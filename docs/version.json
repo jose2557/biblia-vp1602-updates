@@ -1,6 +1,6 @@
 {
-  "version": "2.12.9",
-  "versionCode": 61,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.9.apk",
-  "notes": "Corregido de fondo: en 2.12.8 el salto directo al retar el record de otra persona seguia sin verse. Causa real: ese flujo siempre pasa por la pantalla de Ranking, que se abre encima del Inicio; el cambio de pestana quedaba oculto detras de esa pantalla hasta salir de ella a mano. Ahora se cierra esa pantalla automaticamente antes de cambiar de pestana."
+  "version": "2.12.10",
+  "versionCode": 62,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.10.apk",
+  "notes": "Nuevo: el escudo del indice de dominio (junto al nombre y en Insignias) ahora muestra el numero exacto del porcentaje adentro, no solo un color. Nuevo: seccion 'Indice de dominio de este mes' en Insignias, con tu nivel y la leyenda completa de los 7 niveles y colores. Cambiado: junto al nombre ya no aparece el texto de la insignia, solo el icono -tocala para ver su significado en detalle."
 }
