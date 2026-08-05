@@ -1,6 +1,6 @@
 {
-  "version": "2.12.14",
-  "versionCode": 66,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.14.apk",
-  "notes": "Cada uno de los 7 niveles del indice de dominio ahora tiene su propio color (antes dos niveles distintos se veian iguales). Campeon (100%) tiene un acabado especial y distintivo. Las piezas sueltas de la armadura ya se ven junto al nombre, no solo en Insignias. En Insignias, cualquier pieza -ganada o no- se puede tocar para ver como se gana."
+  "version": "2.12.15",
+  "versionCode": 67,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.15.apk",
+  "notes": "Corregido (de fondo): quien gano una pieza de la armadura ANTES del fix de la 2.12.14 (por ejemplo un cinturon ganado a principios de agosto) tenia su insignia bien guardada pero no se veia junto al nombre. Ahora se autocorrige sola la proxima vez que la persona entre a Memorizar."
 }
