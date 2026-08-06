@@ -1,6 +1,6 @@
 {
-  "version": "2.12.15",
-  "versionCode": 67,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.15.apk",
-  "notes": "Corregido (de fondo): quien gano una pieza de la armadura ANTES del fix de la 2.12.14 (por ejemplo un cinturon ganado a principios de agosto) tenia su insignia bien guardada pero no se veia junto al nombre. Ahora se autocorrige sola la proxima vez que la persona entre a Memorizar."
+  "version": "2.12.16",
+  "versionCode": 68,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.16.apk",
+  "notes": "Aprender ahora se divide en Versiculos y Preguntas: 397 preguntas biblicas por categoria, con audio (pregunta, pausa, respuesta) en la misma voz elegida. Corregido: MI META contaba el atraso al doble de lo que pedia leer. Corregido: el Salon de la fe solo guardaba el ultimo ganador de cada insignia por mes, ahora conserva a todos. Busqueda en orden biblico. Menos avalancha de informacion para quien recien instala la app."
 }
