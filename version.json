@@ -1,6 +1,6 @@
 {
-  "version": "2.12.16",
-  "versionCode": 68,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.16.apk",
-  "notes": "Aprender ahora se divide en Versiculos y Preguntas: 397 preguntas biblicas por categoria, con audio (pregunta, pausa, respuesta) en la misma voz elegida. Corregido: MI META contaba el atraso al doble de lo que pedia leer. Corregido: el Salon de la fe solo guardaba el ultimo ganador de cada insignia por mes, ahora conserva a todos. Busqueda en orden biblico. Menos avalancha de informacion para quien recien instala la app."
+  "version": "2.12.17",
+  "versionCode": 69,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.17.apk",
+  "notes": "Corregido: quien llegaba a 100% de indice de dominio (redondeado, el mismo numero que se muestra junto al nombre) seguia con la insignia de Valiente en vez de Campeon. Corregido (de fondo): el dialogo para crear el perfil seguia saliendo de una vez al abrir la app en vez de esperar a que se entrara de verdad a Memorizar."
 }
