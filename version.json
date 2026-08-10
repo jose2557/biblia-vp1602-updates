@@ -1,6 +1,6 @@
 {
-  "version": "2.12.17",
-  "versionCode": 69,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.17.apk",
-  "notes": "Corregido: quien llegaba a 100% de indice de dominio (redondeado, el mismo numero que se muestra junto al nombre) seguia con la insignia de Valiente en vez de Campeon. Corregido (de fondo): el dialogo para crear el perfil seguia saliendo de una vez al abrir la app en vez de esperar a que se entrara de verdad a Memorizar."
+  "version": "2.12.18",
+  "versionCode": 70,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.18.apk",
+  "notes": "Nadie recibia la Coraza semanal por una carrera de sincronizacion: ahora el cierre espera un margen y se reclama antes de calcular al ganador. Puntos justos: repetir el mismo versiculo al 100% el mismo dia ya no rinde igual (decrece hasta un piso de 1). Ya no se puede pegar en el cuadro de escribir el versiculo. Aprendizaje espaciado tambien en Preguntas, y repasar vuelve a dar puntos. El Cinturon sube de categoria al repetir el mes completo. Avisos de cuando se entrega cada insignia en Ranking, Records e Insignias."
 }
