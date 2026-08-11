@@ -1,6 +1,6 @@
 {
-  "version": "2.12.19",
-  "versionCode": 71,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.19.apk",
-  "notes": "La app va mucho mas ligera cuando hay varias personas conectadas (se dejaron de mover megas de historial de puntos en cada actualizacion). Corregido: escribir mas rapido no siempre adjudicaba el record. Corregido: escribir la CITA volvio a dar puntos. En Preguntas, una fallada ahora reaparece dentro de la misma ronda. Las insignias ya no se cuentan dos veces por el mismo periodo. El Escudo de la fe pasa a ser para quien mas puntos de Preguntas sume en el mes. En el ranking de Records ya se ven las insignias de todos. Se quito la union de nombres."
+  "version": "2.12.20",
+  "versionCode": 72,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.20.apk",
+  "notes": "Corregido (grave): en Preguntas se daba por buena una respuesta numerica con un digito de mas al principio o al final. Por ejemplo, a \"¿Cuantos capitulos tiene Proverbios?\" (31) se le aceptaba \"231\" o \"310\". Ahora los numeros tienen que coincidir exactos y las respuestas de texto se comparan palabra por palabra completa. Sigue valiendo escribir sin tildes, en otro orden o con palabras de mas."
 }
