@@ -1,6 +1,6 @@
 {
-  "version": "2.13.0",
-  "versionCode": 74,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.13.0.apk",
-  "notes": "Nuevo (en prueba): \"Encuentra la lectura\", quinta pestana de Memorizar. Sale un pasaje al azar de toda la Biblia, se puede escuchar leido, y hay que reconocerlo: solo el libro, libro y capitulo, o cita exacta. Facil 6-8 versiculos (5 pts), Medio 2-5 (7 pts), Dificil 1 (9 pts), y 2 pts mas si el pasaje puede empezar en cualquier parte del capitulo. Tiene su propia categoria de puntos y su pestana en el ranking. Corregido: en Preguntas, si la respuesta es una cantidad como \"8 anos\", ahora basta con escribir el numero."
+  "version": "2.14.1",
+  "versionCode": 76,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.14.1.apk",
+  "notes": "Nuevo: DESAFIAR. Desde la ficha de cualquier persona puedes retarla apostando puntos o una insignia. Los mismos 10 incisos para ambos (preguntas y versiculos al azar). Gana el puntaje; empate se rompe por aciertos y luego por tiempo. Vence a las 48 horas y si no lo aceptan no pasa nada. Nuevo: en Encuentra la lectura ya se elige el terreno: cartas de Pablo, Nuevo Testamento (+1), Antiguo Testamento (+1) o toda la Biblia (+2). Corregido: fallar la misma pregunta varias veces la multiplicaba. Corregido: el doble por responder rapido ahora se puede ganar una vez al dia en cada pregunta."
 }
