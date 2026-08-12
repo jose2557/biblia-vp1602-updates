@@ -1,6 +1,6 @@
 {
-  "version": "2.16.0",
-  "versionCode": 80,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.16.0.apk",
-  "notes": "Cambiado: el Inicio de Memorizar esta reorganizado. Antes eran doce bloques del mismo tamano; ahora va en orden: lo urgente (un desafio esperando), lo de hoy, tu meta, el ranking, y una sola fila que abre insignias, Salon de la fe y el detalle de puntos. Se quitaron los tres atajos que repetian las pestanas. La pestana Aprender pasa a llamarse Estudiar. Cambiado: al escribir una cita ya no hace falta el \"San\" de los evangelios; tambien valen \"primera de Juan\", \"1a Juan\" o \"I Juan\"."
+  "version": "2.16.1",
+  "versionCode": 81,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.16.1.apk",
+  "notes": "Nuevo: anuncio de la seccion de Lectura arriba del Inicio de Memorizar, con boton para entrar directo. \"Encuentra la lectura\" es la ultima pestana de la fila y en pantallas estrechas se queda fuera de la vista, asi que casi nadie la descubria. Se puede cerrar y no vuelve a salir."
 }
