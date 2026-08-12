@@ -1,6 +1,6 @@
 {
-  "version": "2.12.20",
-  "versionCode": 72,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.20.apk",
-  "notes": "Corregido (grave): en Preguntas se daba por buena una respuesta numerica con un digito de mas al principio o al final. Por ejemplo, a \"¿Cuantos capitulos tiene Proverbios?\" (31) se le aceptaba \"231\" o \"310\". Ahora los numeros tienen que coincidir exactos y las respuestas de texto se comparan palabra por palabra completa. Sigue valiendo escribir sin tildes, en otro orden o con palabras de mas."
+  "version": "2.12.21",
+  "versionCode": 73,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.21.apk",
+  "notes": "Nuevo: escuchar CUALQUIER pasaje de la Biblia. Selecciona versiculos en el lector y toca el icono de audifonos. Mejorado: en Aprender los filtros se pliegan y la barra de audio es mas baja, queda mucho mas espacio para leer. Corregido: el ranking de Inicio decia siempre \"esta semana\" aunque cambiaras a Hoy o Mes. Corregido: en Preguntas se anunciaba +2 puntos y solo se sumaba 1. Corregido: crear otro plan en MI META borraba el anterior sin avisar."
 }
