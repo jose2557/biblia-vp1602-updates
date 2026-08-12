@@ -1,6 +1,6 @@
 {
-  "version": "2.14.2",
-  "versionCode": 77,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.14.2.apk",
-  "notes": "Corregido (importante): desafiar a alguien no hacia nada. Al tocar Desafiar se cerraba la ficha y se intentaba abrir el dialogo con un contexto ya destruido, asi que todo salia en silencio y no se creaba ningun desafio. Ya funciona. Nuevo: si la otra persona no ha actualizado, se avisa antes de mandarle el desafio, porque no le llegaria. Cambiado: en Encuentra la lectura acertar mas fino da mas puntos: solo el libro es la base, libro y capitulo suma 2 y la cita exacta suma 4."
+  "version": "2.15.0",
+  "versionCode": 78,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.15.0.apk",
+  "notes": "Nuevo: tarjeta de desafios en el Inicio de Memorizar, con lo que se juega a la vista, y desde ahi el historial de todos los retos y quien gano. Mejorado: al recibir un desafio, lo que se arriesga se muestra grande y aparte. Nuevo: en Encuentra la lectura se premia la rapidez (+3 si respondes en menos de 15s, +2 en menos de 30s, +1 en menos de un minuto) y el pasaje se cancela si sales de Memorizar, para que no sirva ir al buscador. Corregido: la voz ya no dice \"Versiculo 1, Versiculo 2\", solo lee el texto."
 }
