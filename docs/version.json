@@ -1,6 +1,6 @@
 {
-  "version": "2.14.1",
-  "versionCode": 76,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.14.1.apk",
-  "notes": "Nuevo: DESAFIAR. Desde la ficha de cualquier persona puedes retarla apostando puntos o una insignia. Los mismos 10 incisos para ambos (preguntas y versiculos al azar). Gana el puntaje; empate se rompe por aciertos y luego por tiempo. Vence a las 48 horas y si no lo aceptan no pasa nada. Nuevo: en Encuentra la lectura ya se elige el terreno: cartas de Pablo, Nuevo Testamento (+1), Antiguo Testamento (+1) o toda la Biblia (+2). Corregido: fallar la misma pregunta varias veces la multiplicaba. Corregido: el doble por responder rapido ahora se puede ganar una vez al dia en cada pregunta."
+  "version": "2.14.2",
+  "versionCode": 77,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.14.2.apk",
+  "notes": "Corregido (importante): desafiar a alguien no hacia nada. Al tocar Desafiar se cerraba la ficha y se intentaba abrir el dialogo con un contexto ya destruido, asi que todo salia en silencio y no se creaba ningun desafio. Ya funciona. Nuevo: si la otra persona no ha actualizado, se avisa antes de mandarle el desafio, porque no le llegaria. Cambiado: en Encuentra la lectura acertar mas fino da mas puntos: solo el libro es la base, libro y capitulo suma 2 y la cita exacta suma 4."
 }
