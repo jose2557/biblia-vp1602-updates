@@ -1,6 +1,6 @@
 {
-  "version": "2.12.21",
-  "versionCode": 73,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.12.21.apk",
-  "notes": "Nuevo: escuchar CUALQUIER pasaje de la Biblia. Selecciona versiculos en el lector y toca el icono de audifonos. Mejorado: en Aprender los filtros se pliegan y la barra de audio es mas baja, queda mucho mas espacio para leer. Corregido: el ranking de Inicio decia siempre \"esta semana\" aunque cambiaras a Hoy o Mes. Corregido: en Preguntas se anunciaba +2 puntos y solo se sumaba 1. Corregido: crear otro plan en MI META borraba el anterior sin avisar."
+  "version": "2.13.0",
+  "versionCode": 74,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.13.0.apk",
+  "notes": "Nuevo (en prueba): \"Encuentra la lectura\", quinta pestana de Memorizar. Sale un pasaje al azar de toda la Biblia, se puede escuchar leido, y hay que reconocerlo: solo el libro, libro y capitulo, o cita exacta. Facil 6-8 versiculos (5 pts), Medio 2-5 (7 pts), Dificil 1 (9 pts), y 2 pts mas si el pasaje puede empezar en cualquier parte del capitulo. Tiene su propia categoria de puntos y su pestana en el ranking. Corregido: en Preguntas, si la respuesta es una cantidad como \"8 anos\", ahora basta con escribir el numero."
 }
