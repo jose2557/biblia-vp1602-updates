@@ -1,1 +1,6 @@
-{"app_name":"biblia_vp1602","version":"1.0.0","build_number":"1","package_name":"biblia_vp1602"}
+{
+  "version": "2.16.3",
+  "versionCode": 83,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.16.3.apk",
+  "notes": "Corregido: los desafios sorteaban preguntas de quien soy/quien dijo/generales, pero las citas casi nunca salian por pura probabilidad y faltaban las categorias Libros, Visiones y Discipulado. Ahora cada desafio trae siempre 5 preguntas (de las 6 categorias) y 5 citas para escribir el versiculo. Nuevo: cada pregunta muestra su categoria, y mientras se juega se ven en vivo los aciertos, los puntos y el tiempo. Nueva pestana Comunidad en el historial de desafios, con los retos de todos: quien reto a quien, que se jugaron y como quedo."
+}
