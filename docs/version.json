@@ -1,6 +1,6 @@
 {
-  "version": "2.16.1",
-  "versionCode": 81,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.16.1.apk",
-  "notes": "Nuevo: anuncio de la seccion de Lectura arriba del Inicio de Memorizar, con boton para entrar directo. \"Encuentra la lectura\" es la ultima pestana de la fila y en pantallas estrechas se queda fuera de la vista, asi que casi nadie la descubria. Se puede cerrar y no vuelve a salir."
+  "version": "2.16.2",
+  "versionCode": 82,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.16.2.apk",
+  "notes": "Cambiado: al escribir una cita ya valen los nombres alternativos de los libros. Apocalipsis o Revelaciones, Hechos o Actos, Santiago o Jacobo, Rut o Ruth, Ester o Esther, Hageo o Ageo, Eclesiastes o Predicador, y Cantar de los Cantares se puede escribir solo Cantares. Junto con lo del \"San\" y los ordinales, ya no hace falta escribir el nombre exacto del texto impreso. Nuevo: anuncio de los desafios en el Inicio, con boton que lleva al ranking para elegir a quien retar."
 }
