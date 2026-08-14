@@ -1,6 +1,6 @@
 {
-  "version": "2.16.3",
-  "versionCode": 83,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.16.3.apk",
-  "notes": "Corregido: los desafios sorteaban preguntas de quien soy/quien dijo/generales, pero las citas casi nunca salian por pura probabilidad y faltaban las categorias Libros, Visiones y Discipulado. Ahora cada desafio trae siempre 5 preguntas (de las 6 categorias) y 5 citas para escribir el versiculo. Nuevo: cada pregunta muestra su categoria, y mientras se juega se ven en vivo los aciertos, los puntos y el tiempo. Nueva pestana Comunidad en el historial de desafios, con los retos de todos: quien reto a quien, que se jugaron y como quedo."
+  "version": "2.17.0",
+  "versionCode": 84,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.17.0.apk",
+  "notes": "Corregido (importante): escribir el versiculo favorito con tilde o sin ella daba dos llaves distintas, asi que al entrar desde otro dispositivo la app no encontraba tu cuenta y creaba una nueva desde cero. Ya son la misma llave. Nuevo: boton 'Ya tenia cuenta: buscarla por mi nombre' para recuperar tu cuenta si la llave no da con ella. Corregido: la app se arrastraba tras estudiar sin conexion, y ahora avisa que tus puntos estan guardados y suben solos al volver la red (no desinstales la app: es lo unico que si los borra). Corregido: quien aparece en linea. Corregido: en Visiones y Discipulado una respuesta con una letra mal daba punto igual. Desafios: eliges de que rubro salen los puntos, puedes responder 'Mas tarde' dentro de las 48 horas, y tocando un desafio ves su ficha completa."
 }
