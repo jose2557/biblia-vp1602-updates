@@ -1,6 +1,6 @@
 {
-  "version": "2.17.0",
-  "versionCode": 84,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.17.0.apk",
-  "notes": "Corregido (importante): escribir el versiculo favorito con tilde o sin ella daba dos llaves distintas, asi que al entrar desde otro dispositivo la app no encontraba tu cuenta y creaba una nueva desde cero. Ya son la misma llave. Nuevo: boton 'Ya tenia cuenta: buscarla por mi nombre' para recuperar tu cuenta si la llave no da con ella. Corregido: la app se arrastraba tras estudiar sin conexion, y ahora avisa que tus puntos estan guardados y suben solos al volver la red (no desinstales la app: es lo unico que si los borra). Corregido: quien aparece en linea. Corregido: en Visiones y Discipulado una respuesta con una letra mal daba punto igual. Desafios: eliges de que rubro salen los puntos, puedes responder 'Mas tarde' dentro de las 48 horas, y tocando un desafio ves su ficha completa."
+  "version": "2.17.1",
+  "versionCode": 85,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.17.1.apk",
+  "notes": "Seguridad: para recuperar una cuenta ahora hay que escribir su versiculo favorito. Buscar por nombre solo sirve para encontrarla; el nombre es publico (sale en el ranking), asi que por si solo no puede servir de llave. Maximo 5 intentos. Acepta el versiculo con tilde o sin ella, incluidas las cuentas afectadas por el fallo anterior."
 }
