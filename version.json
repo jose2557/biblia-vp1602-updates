@@ -1,6 +1,6 @@
 {
-  "version": "2.17.1",
-  "versionCode": 85,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.17.1.apk",
-  "notes": "Seguridad: para recuperar una cuenta ahora hay que escribir su versiculo favorito. Buscar por nombre solo sirve para encontrarla; el nombre es publico (sale en el ranking), asi que por si solo no puede servir de llave. Maximo 5 intentos. Acepta el versiculo con tilde o sin ella, incluidas las cuentas afectadas por el fallo anterior."
+  "version": "2.18.0",
+  "versionCode": 86,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.18.0.apk",
+  "notes": "Corregido (importante): la app se cerraba al reconectar tras estudiar sin internet, y a veces volvia a abrirse sin puntos. Tu progreso ya no puede quedar a medias aunque el telefono cierre la app de golpe, y ademas queda copia de seguridad. Corregido: la insignia de la semana ya se entrega sola (salia 12 horas tarde, y si el reparto fallaba esa semana se perdia). Corregido: seguia exigiendo el 'San' en las citas de Visiones y Discipulado. Corregido: en el examen, los lemas y lecciones seguian admitiendo una palabra cambiada. En Discipulado, Salvacion es Romanos 10:9 (no 10:9-10). Nuevo: en MI META puedes fijar la fecha en que empezo el desafio de lectura y corregirla despues, y el libro por el que vas sale arriba del todo. Nuevo: el Salon de la fe dice si la insignia fue bronce, plata u oro. Nuevo: el ranking de Preguntas indica que ahi se juega el Escudo de la fe."
 }
