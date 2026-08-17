@@ -1,6 +1,6 @@
 {
-  "version": "2.18.1",
-  "versionCode": 87,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.18.1.apk",
-  "notes": "Corregido (importante): MI META calculaba el atraso mal. Los capitulos marcados como 'ya leidos antes' se descontaban dos veces, y salian numeros imposibles: toda la Biblia en un ano daba 1,9 capitulos al dia y 429 de atraso. Ahora es la cuenta de siempre: los capitulos que hay que leer entre los dias que tienes para leerlos, y contra eso lo que llevas. Debajo se explica de donde sale el numero. Cambiado: si llevas varios libros empezados a la vez, arriba salen todos. Corregido: en el Salon de la fe faltaban insignias. Cuando alguien ganaba la misma pieza varias veces en un mes, la nueva borraba a la anterior del tablon y las de bronce, plata y oro no se veian. Ya estan todas, en orden cronologico y con el dia en que se consiguio cada una."
+  "version": "2.18.2",
+  "versionCode": 88,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.18.2.apk",
+  "notes": "Corregido (importante): a quien mas estudia la app se le cerraba sola a los pocos segundos de abrirla, y reinstalar no lo arreglaba. Al guardar el progreso la pantalla se quedaba bloqueada unos segundos y Android daba la app por colgada; por eso solo le pasaba a los que mas puntos tienen y volvia al recuperar el perfil. Ahora eso se hace por detras y la pantalla no se bloquea nunca. Corregido: el total de puntos de 'Siempre' se calculaba sumando todo el historial, y ese historial solo guardaba 45 dias: en cuanto pasara ese plazo todos habriamos empezado a perder puntos sin enterarnos. Ahora el total se guarda aparte y al actualizar se traslada igual, asi que no veras cambiar tu puntaje."
 }
