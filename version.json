@@ -1,6 +1,6 @@
 {
-  "version": "2.18.0",
-  "versionCode": 86,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.18.0.apk",
-  "notes": "Corregido (importante): la app se cerraba al reconectar tras estudiar sin internet, y a veces volvia a abrirse sin puntos. Tu progreso ya no puede quedar a medias aunque el telefono cierre la app de golpe, y ademas queda copia de seguridad. Corregido: la insignia de la semana ya se entrega sola (salia 12 horas tarde, y si el reparto fallaba esa semana se perdia). Corregido: seguia exigiendo el 'San' en las citas de Visiones y Discipulado. Corregido: en el examen, los lemas y lecciones seguian admitiendo una palabra cambiada. En Discipulado, Salvacion es Romanos 10:9 (no 10:9-10). Nuevo: en MI META puedes fijar la fecha en que empezo el desafio de lectura y corregirla despues, y el libro por el que vas sale arriba del todo. Nuevo: el Salon de la fe dice si la insignia fue bronce, plata u oro. Nuevo: el ranking de Preguntas indica que ahi se juega el Escudo de la fe."
+  "version": "2.18.1",
+  "versionCode": 87,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.18.1.apk",
+  "notes": "Corregido (importante): MI META calculaba el atraso mal. Los capitulos marcados como 'ya leidos antes' se descontaban dos veces, y salian numeros imposibles: toda la Biblia en un ano daba 1,9 capitulos al dia y 429 de atraso. Ahora es la cuenta de siempre: los capitulos que hay que leer entre los dias que tienes para leerlos, y contra eso lo que llevas. Debajo se explica de donde sale el numero. Cambiado: si llevas varios libros empezados a la vez, arriba salen todos. Corregido: en el Salon de la fe faltaban insignias. Cuando alguien ganaba la misma pieza varias veces en un mes, la nueva borraba a la anterior del tablon y las de bronce, plata y oro no se veian. Ya estan todas, en orden cronologico y con el dia en que se consiguio cada una."
 }
