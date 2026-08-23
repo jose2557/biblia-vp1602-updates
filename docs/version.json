@@ -1,6 +1,6 @@
 {
-  "version": "2.20.0",
-  "versionCode": 91,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.0.apk",
-  "notes": "Nuevo: aviso de los ultimos dias del mes. Desde el dia 24 sale en Logros cuantos dias quedan, que al cerrar el mes se definen las insignias de la Armadura del Creyente y se reinician los puntos del mes y los records, con las siete insignias en juego a la vista. Nuevo: preambulo de lo que viene en septiembre, la coleccion El fruto del Espiritu (Galatas 5:22-23): nueve insignias nuevas mas una para quien las reuna todas. Se destapan amor, gozo y paz; las otras seis quedan borrosas hasta el 1 de septiembre. Himnario: correcciones de letra y acordes en 8 himnos (8, 81, 99, 106, 210, 251, 252 y 253) y cinco mas marcados como verificados. Ya van 60 revisados nota por nota."
+  "version": "2.20.1",
+  "versionCode": 92,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.1.apk",
+  "notes": "Cambiado: los dos anuncios del mes -el de los dias que quedan y el adelanto del fruto del Espiritu- pasan al INICIO de Memorizacion, arriba del todo. Estaban en Logros y casi nadie los veia. Cambiado: el aviso de los dias que quedan ya no espera al dia 24; esta a la vista todo el mes y la cuenta se actualiza sola. Cambiado: en las insignias del fruto del Espiritu el nombre ya no va sobre una cinta negra que tapaba media insignia: ahora las letras van curvadas siguiendo el borde del circulo, perfiladas en oscuro para que se lean sobre el dibujo y sin salirse del contorno."
 }
