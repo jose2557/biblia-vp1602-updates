@@ -1,6 +1,6 @@
 {
-  "version": "2.18.2",
-  "versionCode": 88,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.18.2.apk",
-  "notes": "Corregido (importante): a quien mas estudia la app se le cerraba sola a los pocos segundos de abrirla, y reinstalar no lo arreglaba. Al guardar el progreso la pantalla se quedaba bloqueada unos segundos y Android daba la app por colgada; por eso solo le pasaba a los que mas puntos tienen y volvia al recuperar el perfil. Ahora eso se hace por detras y la pantalla no se bloquea nunca. Corregido: el total de puntos de 'Siempre' se calculaba sumando todo el historial, y ese historial solo guardaba 45 dias: en cuanto pasara ese plazo todos habriamos empezado a perder puntos sin enterarnos. Ahora el total se guarda aparte y al actualizar se traslada igual, asi que no veras cambiar tu puntaje."
+  "version": "2.19.0",
+  "versionCode": 90,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.19.0.apk",
+  "notes": "Corregido (importante): el hueco que quedaba cuando la conexion se caia a media sesion (no solo al abrir la app sin internet). Ahora solo hay una escritura pendiente como mucho y se avisa a los pocos segundos de recuperar la senal. Nuevo: en Aprender, casilla para marcar lo que ya te sabes (no da puntos, es solo ayuda de estudio). Nuevo: las insignias repetidas ya no se quedan en Oro, siguen hasta Diamante. Nuevo: los desafios ya incluyen Encuentra la lectura entre lo que se pregunta. Corregido: el Salon de la fe muestra la fecha exacta en las entregas semanales. Mejorado: filtros plegables en Preguntas, y cursor y cuenta atras en vivo en Encuentra la lectura."
 }
