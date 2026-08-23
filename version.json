@@ -1,6 +1,6 @@
 {
-  "version": "2.19.0",
-  "versionCode": 90,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.19.0.apk",
-  "notes": "Corregido (importante): el hueco que quedaba cuando la conexion se caia a media sesion (no solo al abrir la app sin internet). Ahora solo hay una escritura pendiente como mucho y se avisa a los pocos segundos de recuperar la senal. Nuevo: en Aprender, casilla para marcar lo que ya te sabes (no da puntos, es solo ayuda de estudio). Nuevo: las insignias repetidas ya no se quedan en Oro, siguen hasta Diamante. Nuevo: los desafios ya incluyen Encuentra la lectura entre lo que se pregunta. Corregido: el Salon de la fe muestra la fecha exacta en las entregas semanales. Mejorado: filtros plegables en Preguntas, y cursor y cuenta atras en vivo en Encuentra la lectura."
+  "version": "2.20.0",
+  "versionCode": 91,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.0.apk",
+  "notes": "Nuevo: aviso de los ultimos dias del mes. Desde el dia 24 sale en Logros cuantos dias quedan, que al cerrar el mes se definen las insignias de la Armadura del Creyente y se reinician los puntos del mes y los records, con las siete insignias en juego a la vista. Nuevo: preambulo de lo que viene en septiembre, la coleccion El fruto del Espiritu (Galatas 5:22-23): nueve insignias nuevas mas una para quien las reuna todas. Se destapan amor, gozo y paz; las otras seis quedan borrosas hasta el 1 de septiembre. Himnario: correcciones de letra y acordes en 8 himnos (8, 81, 99, 106, 210, 251, 252 y 253) y cinco mas marcados como verificados. Ya van 60 revisados nota por nota."
 }
