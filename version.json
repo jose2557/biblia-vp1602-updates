@@ -1,6 +1,6 @@
 {
-  "version": "2.20.2",
-  "versionCode": 93,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.2.apk",
-  "notes": "Corregido (importante): el numero de \"Mes\" (y de paso \"Semana\" y \"Dia\") se recalculaba cada vez sumando el registro de eventos, que tiene un tope de 6.000 guardados. Para quien es muy activo -algunas personas rondan los 280 eventos al dia-, ese tope se llena en poco mas de dos semanas, y el registro empieza a recortar los primeros dias del mes antes de que el mes termine: el numero de \"Mes\" bajaba solo, sin que nadie hubiera restado nada. Ahora \"Dia\", \"Semana\" y \"Mes\" funcionan igual que \"Siempre\": un acumulador aparte que solo suma con cada punto ganado y se reinicia unicamente al pasar al periodo siguiente. Al actualizar, el numero que cada quien ve no da un salto raro: se siembra una vez con lo que ya se veia, y de ahi en adelante no se puede volver a perder."
+  "version": "2.20.3",
+  "versionCode": 94,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.3.apk",
+  "notes": "Corregido: en el ranking del mes (y del dia y la semana), el numero de una persona podia no coincidir con el que se veia al tocar su nombre y abrir su ficha. El ranking recalculaba desde el registro de eventos, que se recorta con el tiempo (ver el arreglo de la 2.20.2); la ficha ya usaba el numero correcto. Ahora los dos leen la misma fuente, y sigue funcionando igual para perfiles muy viejos que nunca subieron el numero nuevo. Nuevo (solo para el desarrollador): dentro de la ficha de cualquier persona, un boton para generar una auditoria completa de sus puntos -desglose dia por dia y el registro de cada punto ganado, con hora- y compartirla o guardarla como texto."
 }
