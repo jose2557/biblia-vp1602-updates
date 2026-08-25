@@ -1,6 +1,6 @@
 {
-  "version": "2.20.1",
-  "versionCode": 92,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.1.apk",
-  "notes": "Cambiado: los dos anuncios del mes -el de los dias que quedan y el adelanto del fruto del Espiritu- pasan al INICIO de Memorizacion, arriba del todo. Estaban en Logros y casi nadie los veia. Cambiado: el aviso de los dias que quedan ya no espera al dia 24; esta a la vista todo el mes y la cuenta se actualiza sola. Cambiado: en las insignias del fruto del Espiritu el nombre ya no va sobre una cinta negra que tapaba media insignia: ahora las letras van curvadas siguiendo el borde del circulo, perfiladas en oscuro para que se lean sobre el dibujo y sin salirse del contorno."
+  "version": "2.20.2",
+  "versionCode": 93,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.2.apk",
+  "notes": "Corregido (importante): el numero de \"Mes\" (y de paso \"Semana\" y \"Dia\") se recalculaba cada vez sumando el registro de eventos, que tiene un tope de 6.000 guardados. Para quien es muy activo -algunas personas rondan los 280 eventos al dia-, ese tope se llena en poco mas de dos semanas, y el registro empieza a recortar los primeros dias del mes antes de que el mes termine: el numero de \"Mes\" bajaba solo, sin que nadie hubiera restado nada. Ahora \"Dia\", \"Semana\" y \"Mes\" funcionan igual que \"Siempre\": un acumulador aparte que solo suma con cada punto ganado y se reinicia unicamente al pasar al periodo siguiente. Al actualizar, el numero que cada quien ve no da un salto raro: se siembra una vez con lo que ya se veia, y de ahi en adelante no se puede volver a perder."
 }
