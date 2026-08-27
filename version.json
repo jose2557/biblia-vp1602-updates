@@ -1,6 +1,6 @@
 {
-  "version": "2.20.4",
-  "versionCode": 95,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.4.apk",
-  "notes": "Corregido (grave): el numero de \"Hoy\" podia amanecer con puntos que no se habian ganado ese dia. Eran los totales del dia anterior, que se colaban en el dia nuevo al sincronizar entre dispositivos. Comprobado contra el registro real: alguien con 4 puntos de versiculos hechos hoy aparecia con 657. Ahora \"Hoy\" y \"Semana\" se calculan del registro de puntos, donde cada punto lleva su fecha y hora, asi que no se puede colar nada de otro dia; si algun numero quedo inflado, se corrige solo al abrir la app. No se perdio ningun punto: \"Mes\" y \"Siempre\" nunca dependieron de esto. Rendimiento: el registro de puntos sale del perfil y se guarda aparte. Iba en el mismo documento que lee el ranking, asi que cada punto de cualquiera obligaba a todos los telefonos con el ranking abierto a volver a descargar el perfil entero de esa persona (el mas activo pesaba 745 KB, el total 3,6 MB). De ahi venian los tirones al escribir versiculos y la lentitud del ranking, los puntos y los records con varias personas conectadas."
+  "version": "2.20.5",
+  "versionCode": 96,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.5.apk",
+  "notes": "Preparado antes del cierre de agosto: el reparto de Yelmo, Escudo y Coraza (las insignias del mes y la semana) dependia de recorrer el registro de eventos del periodo que se esta cerrando, el mismo registro que se recorta con el tiempo. Ahora cada telefono guarda, en el instante exacto en que empieza un periodo nuevo, una foto del total final del que acaba de cerrar; el reparto usa esa foto cuando esta disponible, sin depender del registro. Quien no haya actualizado antes de que cierre el periodo sigue funcionando con el calculo anterior, sin romperse."
 }
