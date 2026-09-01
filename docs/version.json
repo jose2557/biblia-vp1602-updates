@@ -1,6 +1,6 @@
 {
-  "version": "2.21.0",
-  "versionCode": 101,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.21.0.apk",
-  "notes": "Junto al nombre (ranking, ficha, listas) ya solo se ven las ultimas 4 insignias obtenidas, mas el indice de dominio. Quien complete una coleccion entera (Armadura o Fruto) ve una sola insignia representando todo el logro. Nuevo: en Insignias (icono de ajustes, en las propias) se elige a mano cuales 4 mostrar. El boton de Concordancia en Buscar ahora dice 'Concordancia' con texto."
+  "version": "2.21.1",
+  "versionCode": 102,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.21.1.apk",
+  "notes": "Corregido: se otorgaba de mas una insignia de septiembre antes de que la coleccion del mes estuviera lista; ya no pasa, y se revirtio la que se dio de mas. Corregido: el Salon de la fe se quedaba sin el Tablon de ganadores (parecia que agosto habia desaparecido) por un dato dañado; se reparo y se blindo para que no vuelva a pasar. Nuevo: el Salon de la fe tambien reconoce ahora la coleccion completa del Fruto del Espiritu."
 }
