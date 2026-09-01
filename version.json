@@ -1,6 +1,6 @@
 {
-  "version": "2.20.6",
-  "versionCode": 97,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.6.apk",
-  "notes": "Nuevo: Concordancia en Buscar (indice completo de palabras, con filtro por letra y todas las referencias). Numeracion de estrofas en el Himnario. Correccion de letra en 9 himnos. Cierre de las insignias de agosto y arranque de El Fruto del Espiritu en septiembre, con su propia pantalla de Colecciones (maniqui de la Armadura / arbol del Fruto)."
+  "version": "2.20.7",
+  "versionCode": 98,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.7.apk",
+  "notes": "Corregido: al arrancar septiembre se seguia anunciando la Armadura de agosto en vez de El Fruto del Espiritu. Insignias ahora muestra las dos colecciones del mes directo, en pestanas. Nueva pantalla Usuarios (menu Mas): quien esta activo en Memorizar, sus insignias y sus puntos, y desde ahi se reta a un desafio. La tarjeta de desafios vuelve a promocionarse."
 }
