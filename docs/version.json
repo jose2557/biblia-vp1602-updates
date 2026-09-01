@@ -1,6 +1,6 @@
 {
-  "version": "2.20.8",
-  "versionCode": 99,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.8.apk",
-  "notes": "Corregido (importante): el calculo de quien gana Yelmo y Escudo cada mes podia fallar cuando la persona mas activa aun no habia abierto la app en el nuevo mes al cierre automatico. Insignias abre siempre en la coleccion vigente (este mes, El Fruto del Espiritu); las anteriores quedan en otras pestanas. Usuarios se mudo del menu Mas a un acceso directo en el Inicio de Memorizar."
+  "version": "2.20.9",
+  "versionCode": 100,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.9.apk",
+  "notes": "Corregido: el fruto del Espiritu se mide desde septiembre, ya no debia haber piezas de fruto para agosto. Corregido (importante): una cuenta amanecio con el indice de dominio al maximo con datos viejos en vez de septiembre; el mes real ahora manda siempre. El tope de eventos guardados subio de 6000 a 20000 para que alcance a cubrir el mes completo incluso para quien estudia muchisimo."
 }
