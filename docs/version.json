@@ -1,6 +1,6 @@
 {
-  "version": "2.20.5",
-  "versionCode": 96,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.5.apk",
-  "notes": "Preparado antes del cierre de agosto: el reparto de Yelmo, Escudo y Coraza (las insignias del mes y la semana) dependia de recorrer el registro de eventos del periodo que se esta cerrando, el mismo registro que se recorta con el tiempo. Ahora cada telefono guarda, en el instante exacto en que empieza un periodo nuevo, una foto del total final del que acaba de cerrar; el reparto usa esa foto cuando esta disponible, sin depender del registro. Quien no haya actualizado antes de que cierre el periodo sigue funcionando con el calculo anterior, sin romperse."
+  "version": "2.20.6",
+  "versionCode": 97,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.6.apk",
+  "notes": "Nuevo: Concordancia en Buscar (indice completo de palabras, con filtro por letra y todas las referencias). Numeracion de estrofas en el Himnario. Correccion de letra en 9 himnos. Cierre de las insignias de agosto y arranque de El Fruto del Espiritu en septiembre, con su propia pantalla de Colecciones (maniqui de la Armadura / arbol del Fruto)."
 }
