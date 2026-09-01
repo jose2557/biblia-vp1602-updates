@@ -1,6 +1,6 @@
 {
-  "version": "2.20.7",
-  "versionCode": 98,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.7.apk",
-  "notes": "Corregido: al arrancar septiembre se seguia anunciando la Armadura de agosto en vez de El Fruto del Espiritu. Insignias ahora muestra las dos colecciones del mes directo, en pestanas. Nueva pantalla Usuarios (menu Mas): quien esta activo en Memorizar, sus insignias y sus puntos, y desde ahi se reta a un desafio. La tarjeta de desafios vuelve a promocionarse."
+  "version": "2.20.8",
+  "versionCode": 99,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.8.apk",
+  "notes": "Corregido (importante): el calculo de quien gana Yelmo y Escudo cada mes podia fallar cuando la persona mas activa aun no habia abierto la app en el nuevo mes al cierre automatico. Insignias abre siempre en la coleccion vigente (este mes, El Fruto del Espiritu); las anteriores quedan en otras pestanas. Usuarios se mudo del menu Mas a un acceso directo en el Inicio de Memorizar."
 }
