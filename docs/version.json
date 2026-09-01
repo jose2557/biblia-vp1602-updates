@@ -1,6 +1,6 @@
 {
-  "version": "2.20.9",
-  "versionCode": 100,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.20.9.apk",
-  "notes": "Corregido: el fruto del Espiritu se mide desde septiembre, ya no debia haber piezas de fruto para agosto. Corregido (importante): una cuenta amanecio con el indice de dominio al maximo con datos viejos en vez de septiembre; el mes real ahora manda siempre. El tope de eventos guardados subio de 6000 a 20000 para que alcance a cubrir el mes completo incluso para quien estudia muchisimo."
+  "version": "2.21.0",
+  "versionCode": 101,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.21.0.apk",
+  "notes": "Junto al nombre (ranking, ficha, listas) ya solo se ven las ultimas 4 insignias obtenidas, mas el indice de dominio. Quien complete una coleccion entera (Armadura o Fruto) ve una sola insignia representando todo el logro. Nuevo: en Insignias (icono de ajustes, en las propias) se elige a mano cuales 4 mostrar. El boton de Concordancia en Buscar ahora dice 'Concordancia' con texto."
 }
