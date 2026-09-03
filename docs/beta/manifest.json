@@ -1,0 +1,35 @@
+{
+  "name": "Biblia VP1602 (PRUEBAS)",
+  "short_name": "VP1602 PRUEBAS",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0D1B2A",
+  "theme_color": "#152C54",
+  "description": "Santa Biblia Valera 1602 Purificada (Revision 2024) - lectura offline, buscador, favoritos, memorizacion y plan de lectura.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/Icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "version": "2.21.1-pruebas",
+  "versionCode": 103,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
+  "notes": "Version de PRUEBAS. Escribe en colecciones pruebas_* de Firestore, no toca los datos reales y lleva una cinta roja de PRUEBAS. No la use nadie mas."
+}
