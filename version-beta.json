@@ -1,6 +1,6 @@
 {
-  "version": "2.21.1-pruebas-2",
-  "versionCode": 104,
+  "version": "2.21.1-pruebas-3",
+  "versionCode": 105,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Version de PRUEBAS. Se instala AL LADO de la app normal (paquete .pruebas, se ve como 'Biblia PRUEBAS'), escribe en colecciones pruebas_* de Firestore y lleva cinta roja. No la use nadie mas."
+  "notes": "Version de PRUEBAS. Nuevo: buscador dentro de Concordancia, miniatura de Armadura Completa corregida, editor de insignias ya deja elegir CADA pieza suelta (antes se colapsaban en la insignia de coleccion completa). Se instala AL LADO de la app normal. No la use nadie mas."
 }
