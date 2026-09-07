@@ -2,5 +2,5 @@
   "version": "2.21.1-pruebas-3",
   "versionCode": 105,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Version de PRUEBAS. Nuevo: buscador dentro de Concordancia, miniatura de Armadura Completa corregida, editor de insignias ya deja elegir CADA pieza suelta (antes se colapsaban en la insignia de coleccion completa). Se instala AL LADO de la app normal. No la use nadie mas."
+  "notes": "Corregido: el aviso de actualizar se quedaba pegado para siempre (el APK nunca llevaba de verdad el numero de version que el aviso prometia). Ya viene arreglado. Ademas: buscador dentro de Concordancia, miniatura de Armadura Completa corregida, editor de insignias ya deja elegir CADA pieza suelta. Se instala AL LADO de la app normal. No la use nadie mas."
 }

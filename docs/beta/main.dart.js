@@ -10166,14 +10166,14 @@ this.c=c},
 abe(a,b){return A.byg(a,b)},
 byg(a,b){var s=0,r=A.t(t.H),q,p,o,n,m
 var $async$abe=A.u(function(c,d){if(c===1)return A.p(d,r)
-while(true)switch(s){case 0:if(!b.ax){b.cY=102
+while(true)switch(s){case 0:if(!b.ax){b.cY=105
 b.aK(0)
 s=1
 break}p=b.cY
 if(p===0)if(b.aa.length!==0||b.rx!=null){b.cY=24
 p=24}else if(b.p4.a!==0||b.k3>0){b.cY=22
-p=22}o=A.bym(p,102)
-if(o.length===0){if(b.cY!==102){b.cY=102
+p=22}o=A.bym(p,105)
+if(o.length===0){if(b.cY!==105){b.cY=105
 b.aK(0)}s=1
 break}p=A.a([],t.O)
 for(n=o.length,m=0;m<o.length;o.length===n||(0,A.E)(o),++m)B.b.N(p,o[m].c)
@@ -10182,7 +10182,7 @@ return A.j(A.kw(B.ew,null,t.H),$async$abe)
 case 3:if(a.e==null){s=1
 break}s=4
 return A.j(A.f0(null,null,!1,null,new A.b2u(p,o),a,null,!0,t.z),$async$abe)
-case 4:b.cY=102
+case 4:b.cY=105
 b.aK(0)
 case 1:return A.q(q,r)}})
 return A.r($async$abe,r)},
@@ -11660,7 +11660,7 @@ h=A.df(J.B(l,"versionCode"))
 k=h==null?0:h
 g=A.a_(J.B(l,"url"))
 j=g==null?"":g
-if(k<=102||J.c1(j)===0){q=B.arY
+if(k<=105||J.c1(j)===0){q=B.arY
 s=1
 break}i=A.a_(J.B(l,"version"))
 if(i==null)i=""
@@ -52036,7 +52036,7 @@ $S:824}
 A.adI.prototype={
 $0(){var s=this.a.d
 s.ax=!0
-s.cY=102
+s.cY=105
 s.cN=A.jA()
 s.aK(0)},
 $S:0}
@@ -53500,7 +53500,7 @@ s.J$=0
 this.ao()},
 atD(){var s=""+"*Reporte \u2014 Biblia VP 1602*\n"+("Tipo: "+B.b.jb(B.oc,new A.aJy(this)).a[3]+"\n"),r=B.c.bU(this.f.a.a)
 if(r.length!==0)s+="D\xf3nde: "+r+"\n"
-s=s+"\n"+(B.c.bU(this.e.a.a)+"\n")+"\n\u2014\nVersi\xf3n de la app: 2.21.1\n"
+s=s+"\n"+(B.c.bU(this.e.a.a)+"\n")+"\n\u2014\nVersi\xf3n de la app: 2.21.1-pruebas-3\n"
 return s.charCodeAt(0)==0?s:s},
 DG(){var s=0,r=A.t(t.H),q,p=2,o=[],n=this,m,l,k,j,i,h,g
 var $async$DG=A.u(function(a,b){if(a===1){o.push(b)
@@ -58208,7 +58208,7 @@ this.cp()
 this.hl()}}
 A.W1.prototype={
 E(a){var s=null
-return A.e4(A.es(s,s,s,B.ao8),s,A.eN(A.a([A.dd(!1,s,s,s,!0,s,s,!0,s,s,B.WT,s,s,new A.arj(this,a),!1,s,s,s,B.aqG,s,B.I3,s,s),A.dd(!1,s,s,s,!0,s,s,!0,s,s,B.Xw,s,s,new A.ark(this,a),!1,s,s,s,B.aph,s,B.I8,s,s),B.d9,new A.a7c(this.d,s),A.dd(!1,s,s,s,!0,s,s,!0,s,s,B.Xi,s,s,new A.arl(a),!1,s,s,s,A.k("Versi\xf3n instalada: 2.21.1",s,s,s,s,s,s,s,s),s,B.aoi,s,s),A.dd(!1,s,s,s,!0,s,s,!0,s,s,B.vE,s,s,new A.arm(a),!1,s,s,s,B.apc,s,B.aqy,s,s),A.dd(!1,s,s,s,!0,s,s,!0,s,s,B.X2,s,s,new A.arn(a),!1,s,s,s,B.apf,s,B.aoC,s,s),A.dd(!1,s,s,s,!0,s,s,!0,s,s,B.XG,s,s,new A.aro(a),!1,s,s,s,B.aqp,s,B.I6,s,s),B.d9,A.dd(!1,s,s,s,!0,s,s,!0,s,s,B.WX,s,s,s,!1,s,s,s,A.k("Santa Biblia Valera Purificada 1602, Revisi\xf3n 2024.\n\nTexto conforme a la edici\xf3n impresa (Iglesia Bautista B\xedblica de la Gracia). Aplicaci\xf3n de lectura 100% sin conexi\xf3n.",s,s,s,s,s,s,s,s),s,B.apQ,s,s)],t.p),s,s,s,B.N,!1),s,s)}}
+return A.e4(A.es(s,s,s,B.ao8),s,A.eN(A.a([A.dd(!1,s,s,s,!0,s,s,!0,s,s,B.WT,s,s,new A.arj(this,a),!1,s,s,s,B.aqG,s,B.I3,s,s),A.dd(!1,s,s,s,!0,s,s,!0,s,s,B.Xw,s,s,new A.ark(this,a),!1,s,s,s,B.aph,s,B.I8,s,s),B.d9,new A.a7c(this.d,s),A.dd(!1,s,s,s,!0,s,s,!0,s,s,B.Xi,s,s,new A.arl(a),!1,s,s,s,A.k("Versi\xf3n instalada: 2.21.1-pruebas-3",s,s,s,s,s,s,s,s),s,B.aoi,s,s),A.dd(!1,s,s,s,!0,s,s,!0,s,s,B.vE,s,s,new A.arm(a),!1,s,s,s,B.apc,s,B.aqy,s,s),A.dd(!1,s,s,s,!0,s,s,!0,s,s,B.X2,s,s,new A.arn(a),!1,s,s,s,B.apf,s,B.aoC,s,s),A.dd(!1,s,s,s,!0,s,s,!0,s,s,B.XG,s,s,new A.aro(a),!1,s,s,s,B.aqp,s,B.I6,s,s),B.d9,A.dd(!1,s,s,s,!0,s,s,!0,s,s,B.WX,s,s,s,!1,s,s,s,A.k("Santa Biblia Valera Purificada 1602, Revisi\xf3n 2024.\n\nTexto conforme a la edici\xf3n impresa (Iglesia Bautista B\xedblica de la Gracia). Aplicaci\xf3n de lectura 100% sin conexi\xf3n.",s,s,s,s,s,s,s,s),s,B.apQ,s,s)],t.p),s,s,s,B.N,!1),s,s)}}
 A.arj.prototype={
 $0(){return A.aL(this.b,!1).c4(A.cG(new A.ari(this.a),null,t.z))},
 $S:0}
@@ -58252,7 +58252,7 @@ A.b_M.prototype={
 $1(a){return B.Jh},
 $S:22}
 A.b_N.prototype={
-$1(a){var s=null,r=this.a,q=A.k(r?"No se pudo comprobar":"Est\xe1s al d\xeda",s,s,s,s,s,s,s,s),p=A.k(r?"No fue posible consultar si hay una versi\xf3n nueva. Revisa tu conexi\xf3n a internet e int\xe9ntalo de nuevo.\n\nLa app sigue funcionando con normalidad sin conexi\xf3n.":"Tienes instalada la \xfaltima versi\xf3n disponible (versi\xf3n 2.21.1).",s,s,s,s,s,s,s,s)
+$1(a){var s=null,r=this.a,q=A.k(r?"No se pudo comprobar":"Est\xe1s al d\xeda",s,s,s,s,s,s,s,s),p=A.k(r?"No fue posible consultar si hay una versi\xf3n nueva. Revisa tu conexi\xf3n a internet e int\xe9ntalo de nuevo.\n\nLa app sigue funcionando con normalidad sin conexi\xf3n.":"Tienes instalada la \xfaltima versi\xf3n disponible (versi\xf3n 2.21.1-pruebas-3).",s,s,s,s,s,s,s,s)
 return A.fw(A.a([A.cr(!1,B.aoE,s,s,s,s,s,s,new A.b_L(this.b),s,s)],t.p),p,q)},
 $S:22}
 A.b_L.prototype={
@@ -59505,7 +59505,7 @@ h=J.d(a.h(a3,"primerGanador"),!0)
 m=A.bl(a.h(a3,"appVersion"))
 g=m==null?c:B.d.aZ(m)
 n=g!=null
-f=n&&g<102
+f=n&&g<105
 e=A.btI(a.h(a3,"updatedAt"))
 a=A.aU(12)
 m=t.p
@@ -59520,7 +59520,7 @@ r=q==null
 p=A.a([d,B.hc,A.k(""+p+" puntos \xb7 "+l+"/6 armadura \xb7 "+k+"/9 fruto",c,c,c,c,A.K(c,c,r?b.k3:q,c,c,c,c,c,c,c,c,12,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),c,c,c)],m)
 if(e!=null)B.b.N(p,A.a([B.bh,A.k("Activo "+e,c,c,c,c,A.K(c,c,r?b.k3:q,c,c,c,c,c,c,c,c,11,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),c,c,c)],m))
 if(a4&&n){n="Versi\xf3n "+A.n(g)
-if(f)n+=" (desactualizada, actual 102)"
+if(f)n+=" (desactualizada, actual 105)"
 if(f)r=b.fy
 else r=r?b.k3:q
 B.b.N(p,A.a([B.bh,A.k(n,c,c,c,c,A.K(c,c,r,c,c,c,c,c,c,c,c,11,c,c,B.P,c,c,!0,c,c,c,c,c,c,c,c),c,c,c)],m))}r=A.a([A.b2(A.af(p,B.p,B.f,B.i),1)],m)
@@ -62383,7 +62383,7 @@ J.b5(l,"prefs",A.ad(["fontSize",a.a,"themeMode",a.f,"themeColor",a.r,"ttsLocale"
 i=a.at
 i=i==null?null:i.hY()
 J.b5(l,"goalPlan",i)
-J.b5(l,"appVersion",102)
+J.b5(l,"appVersion",105)
 i=$.jz().iz()
 J.b5(l,"updatedAt",new A.fi(i,i))
 i=A.f9(!0)
