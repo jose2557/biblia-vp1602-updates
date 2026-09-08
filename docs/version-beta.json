@@ -1,6 +1,6 @@
 {
-  "version": "2.21.1-pruebas-6",
-  "versionCode": 108,
+  "version": "2.21.1-pruebas-7",
+  "versionCode": 109,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Panel de desarrollador mucho mas completo: puntos e insignias (sumar Y restar), tanto tuyos como de cualquier cuenta de prueba que crees (para simular a otra persona), y una pestana de solo lectura para ver el ranking de la app real sin poder tocarlo. Se instala AL LADO de la app normal. No la use nadie mas."
+  "notes": "Corregido: la insignia de Armadura Completa en miniatura (junto al nombre) ya no muestra un escudo generico con una cruz -ahora es el logo real, el muniequito con las 6 piezas, solo que sin la cinta de texto que no cabia a ese tamano. Se instala AL LADO de la app normal. No la use nadie mas."
 }
