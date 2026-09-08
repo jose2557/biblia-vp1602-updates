@@ -1,6 +1,6 @@
 {
-  "version": "2.21.1",
-  "versionCode": 102,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.21.1.apk",
-  "notes": "Corregido: se otorgaba de mas una insignia de septiembre antes de que la coleccion del mes estuviera lista; ya no pasa, y se revirtio la que se dio de mas. Corregido: el Salon de la fe se quedaba sin el Tablon de ganadores (parecia que agosto habia desaparecido) por un dato dañado; se reparo y se blindo para que no vuelva a pasar. Nuevo: el Salon de la fe tambien reconoce ahora la coleccion completa del Fruto del Espiritu."
+  "version": "2.21.2",
+  "versionCode": 110,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.21.2.apk",
+  "notes": "Corregido: el aviso de que insignia se juega en el Ranking se habia quedado hablando siempre de la Armadura; ahora sigue a la coleccion vigente (El Fruto del Espiritu desde septiembre). Nuevo: buscador dentro de Concordancia. Corregido: la insignia de Armadura Completa en miniatura (junto al nombre) se veia borrosa; ahora es el logo real, legible. Corregido: el editor de tus insignias (para elegir cuales mostrar) solo dejaba elegir 1 o 2; ahora aparecen todas las que tengas. Nuevo: tarjeta fija en Inicio para crear tu perfil si aun no lo tienes. Nuevo: versiculos de memorizacion de septiembre 2026."
 }
