@@ -1,6 +1,6 @@
 {
-  "version": "2.21.1-pruebas-4",
-  "versionCode": 106,
+  "version": "2.21.1-pruebas-6",
+  "versionCode": 108,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Nuevo: tarjeta fija en Inicio para crear tu perfil si aun no lo tienes (antes solo se ofrecia una vez al dia). Nuevo: Panel de desarrollador (solo tu lo ves) para darte puntos e insignias a mano y probar sin esperar. Se instala AL LADO de la app normal. No la use nadie mas."
+  "notes": "Panel de desarrollador mucho mas completo: puntos e insignias (sumar Y restar), tanto tuyos como de cualquier cuenta de prueba que crees (para simular a otra persona), y una pestana de solo lectura para ver el ranking de la app real sin poder tocarlo. Se instala AL LADO de la app normal. No la use nadie mas."
 }
