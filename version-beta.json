@@ -1,6 +1,6 @@
 {
-  "version": "2.21.1-pruebas-7",
-  "versionCode": 109,
+  "version": "2.21.1-pruebas-12",
+  "versionCode": 114,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Corregido: la insignia de Armadura Completa en miniatura (junto al nombre) ya no muestra un escudo generico con una cruz -ahora es el logo real, el muniequito con las 6 piezas, solo que sin la cinta de texto que no cabia a ese tamano. Se instala AL LADO de la app normal. No la use nadie mas."
+  "notes": "Correcciones y mejoras: (1) las insignias ya no otorgan piezas de la coleccion equivocada segun el mes (Armadura del Creyente hasta ago-2026, Fruto del Espiritu desde sep-2026); (2) Salon de la fe: las entradas mas recientes aparecen primero; (3) se agregaron 30 versiculos del programa IDP y la categoria IDP completa (77 versiculos); (4) en el perfil puedes indicar si eres IBC o IDP, lo cual ajusta tu indice de precision de memorizacion; (5) nueva insignia Lectura Destacada para quien tenga mayor avance porcentual de lectura personal en el mes."
 }
