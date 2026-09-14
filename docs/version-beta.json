@@ -1,6 +1,6 @@
 {
-  "version": "2.21.1-pruebas-15",
-  "versionCode": 117,
+  "version": "2.21.1-pruebas-17",
+  "versionCode": 119,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Buscador mejorado: modo Tema (topico offline), filtros Evangelios/Pablo/Salmos, conteo de ocurrencias. Editor de himnos para el desarrollador (chord-pro inline, guarda en Firestore). Tab Progreso de Lectura independiente del tab Encuentralo."
+  "notes": "Buscador temático en lenguaje natural (detecta autores/libros, expande sinónimos). Progreso de Lectura en el Ranking. Ajuste para ocultar versión al copiar."
 }
