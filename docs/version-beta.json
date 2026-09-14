@@ -1,6 +1,6 @@
 {
-  "version": "2.21.1-pruebas-13",
-  "versionCode": 115,
+  "version": "2.21.1-pruebas-15",
+  "versionCode": 117,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Correcciones de UI: (1) categoria IDP disponible en Estudiar, Versiculos y Preguntas; (2) insignia Lectura Destacada ahora visible junto al nombre en el ranking y ficha de usuario."
+  "notes": "Buscador mejorado: modo Tema (topico offline), filtros Evangelios/Pablo/Salmos, conteo de ocurrencias. Editor de himnos para el desarrollador (chord-pro inline, guarda en Firestore). Tab Progreso de Lectura independiente del tab Encuentralo."
 }

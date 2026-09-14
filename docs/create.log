@@ -1,0 +1,33 @@
+Recreating project ....
+  analysis_options.yaml (created)
+  biblia_vp1602.iml (created)
+  web/index.html (created)
+  web/favicon.png (created)
+  web/manifest.json (created)
+  web/icons/Icon-maskable-512.png (created)
+  web/icons/Icon-192.png (created)
+  web/icons/Icon-512.png (created)
+  web/icons/Icon-maskable-192.png (created)
+  .idea/libraries/KotlinJavaRuntime.xml (created)
+  .idea/libraries/Dart_SDK.xml (created)
+  .idea/runConfigurations/main_dart.xml (created)
+  .idea/modules.xml (created)
+  .idea/workspace.xml (created)
+  test/widget_test.dart (created)
+Resolving dependencies...
+Downloading packages...
+Got dependencies.
+Wrote 15 files.
+
+All done!
+You can find general documentation for Flutter at: https://docs.flutter.dev/
+Detailed API documentation is available at: https://api.flutter.dev/
+If you prefer video documentation, consider: https://www.youtube.com/c/flutterdev
+
+In order to run your application, type:
+
+  $ cd .
+  $ flutter run
+
+Your application code is in ./lib/main.dart.
+
