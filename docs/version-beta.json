@@ -1,6 +1,6 @@
 {
-  "version": "2.21.1-pruebas-18",
-  "versionCode": 120,
+  "version": "2.22.2",
+  "versionCode": 123,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Ranking con chips scrollables y título de categoría. Editor de himnos visible en beta. Buscador temático NLP. Ajuste versión al copiar."
+  "notes": "Nuevo: aviso en Inicio que lleva directo a Progreso de lectura en el Ranking. Corregido: en Encuentra la lectura, cuando el pasaje es identico palabra por palabra en mas de una cita (pasajes paralelos), ahora se acepta cualquiera de esas citas como correcta. Corregido: se reconecto el panel de desarrollador, que habia quedado invisible por un error de una publicacion anterior."
 }
