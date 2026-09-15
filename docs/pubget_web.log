@@ -37,6 +37,7 @@ Downloading packages...
   shared_preferences_foundation 2.5.4 (2.5.7 available)
   shared_preferences_platform_interface 2.4.1 (2.4.2 available)
   source_span 1.10.1 (1.10.2 available)
+  speech_to_text 7.4.0 (7.5.0 available)
   stack_trace 1.12.1 (1.12.2 available)
   test_api 0.7.4 (0.7.14 available)
   timezone 0.9.4 (0.11.1 available)
@@ -51,5 +52,5 @@ Downloading packages...
   win32 5.15.0 (6.4.0 available)
   xml 6.6.1 (7.0.1 available)
 Got dependencies!
-50 packages have newer versions incompatible with dependency constraints.
+51 packages have newer versions incompatible with dependency constraints.
 Try `flutter pub outdated` for more information.

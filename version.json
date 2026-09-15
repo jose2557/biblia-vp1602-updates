@@ -1,6 +1,6 @@
 {
-  "version": "2.22.1",
-  "versionCode": 122,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602.apk",
-  "notes": "Corregido: usuarios con ambas colecciones completas (Armadura + Fruto) ahora ven las 4 insignias más recientes junto a su nombre. Novedades de la versión 2.22.0 visibles al actualizar."
+  "version": "2.22.2",
+  "versionCode": 123,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.22.2.apk",
+  "notes": "Nuevo: buscador por Tema en lenguaje natural. Nuevo: Progreso de Lectura en el Ranking, con aviso directo desde Inicio y nueva insignia Lectura Destacada para quien mas avance en el mes. Nuevo: sistema IBC/IDP -marca tu congregacion y el indice de precision usa el set de versiculos correcto (111 mensuales para IBC, 77 propios para IDP)-, con los 77 versiculos IDP ya incluidos. Nuevo: en Ajustes, elige si al copiar o compartir se incluye la mencion de la version. Corregido: las insignias ya no se entregan de la coleccion equivocada segun el mes (Armadura hasta agosto, Fruto del Espiritu desde septiembre). Corregido: el Salon de la fe y el tablon de ganadores muestran primero las entradas mas recientes. Corregido: en Encuentra la lectura, cuando el pasaje es identico palabra por palabra en mas de una cita (pasajes paralelos), se acepta cualquiera de esas citas como correcta."
 }
