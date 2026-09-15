@@ -1,6 +1,6 @@
 {
-  "version": "2.22.0",
-  "versionCode": 121,
+  "version": "2.22.1",
+  "versionCode": 122,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602.apk",
-  "notes": "Nuevo: buscador por Tema entiende lenguaje natural (\"pasajes donde Pablo hable del amor fraternal\"). Nuevo: Progreso de Lectura en el Ranking. Nuevo: en Ajustes puedes omitir la version de la Biblia al copiar. Nuevo: sistema IBC/IDP con indice de precision por congregacion. Nuevo: insignia Lectura Destacada. Ranking con chips y titulo de categoria. Correcciones varias."
+  "notes": "Corregido: usuarios con ambas colecciones completas (Armadura + Fruto) ahora ven las 4 insignias más recientes junto a su nombre. Novedades de la versión 2.22.0 visibles al actualizar."
 }
