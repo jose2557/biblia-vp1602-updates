@@ -1,6 +1,6 @@
 {
-  "version": "2.22.3",
-  "versionCode": 124,
+  "version": "2.22.4",
+  "versionCode": 125,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Corregido: las insignias del Fruto del Espiritu ganadas mas de una vez ya muestran su aro de nivel (bronce, plata, oro y superiores). Cambiado: el ranking Progreso de lectura ahora mide el avance de HOY como porcentaje de la meta personal, no el acumulado de toda la vida. Corregido: la tarjeta Salon de la fe de Inicio mostraba el reconocimiento mas viejo en vez del mas nuevo; ahora ademas indica cual insignia fue y quien la gano, y se actualiza sola. Corregido: en Memorizar, un versiculo o pregunta fallada volvia a salir demasiado tarde para servir de refuerzo; ahora vuelve antes. Corregido: en Discipulado, Colosenses 3:23-24 aparecia completo -esa leccion es solo el versiculo 23."
+  "notes": "Nuevo: letra completa del Himno 426, Tu has venido a la orilla. Corregido: el aro de nivel (bronce, plata, oro) de las insignias del Fruto quedaba casi pegado al borde y se veia casi invisible; ahora es notoriamente mas grueso. El de las piezas de la Armadura tambien se engroso. Mejorado: la tarjeta Salon de la fe de Inicio ya no corta la informacion -muestra completos el nombre de la insignia, quien la gano y la fecha."
 }
