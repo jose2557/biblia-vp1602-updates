@@ -1,6 +1,6 @@
 {
-  "version": "2.22.5",
-  "versionCode": 126,
+  "version": "2.22.6",
+  "versionCode": 127,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Corregido: los Desafios todavia dejaban apostar y ganar piezas de la Armadura (coraza, yelmo...) con las que ya se tenian de agosto, aunque esa coleccion este cerrada desde el 1 sep -por eso seguia apareciendo \"Coraza de justicia\" en el Salon de la fe. Ahora los desafios solo ofrecen piezas de la coleccion vigente (Fruto), y se agrego un candado extra que bloquea cualquier entrega de Armadura despues de esa fecha, venga de donde venga. Nuevo: en Encuentra la lectura, el filtro de origen del pasaje ahora tiene la opcion \"Libros elegidos\" para escoger uno o varios libros puntuales -con buscador."
+  "notes": "Interno: el panel de desarrollador ahora tambien deja corregir insignias en la app general para la cuenta del desarrollador -antes esa herramienta estaba bloqueada del todo fuera de pruebas, y no habia forma de arreglar a mano una entrega mal hecha sin editar la base de datos directamente."
 }
