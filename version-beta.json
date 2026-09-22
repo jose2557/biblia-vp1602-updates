@@ -1,6 +1,6 @@
 {
-  "version": "2.22.4",
-  "versionCode": 125,
+  "version": "2.22.5",
+  "versionCode": 126,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Nuevo: letra completa del Himno 426, Tu has venido a la orilla. Corregido: el aro de nivel (bronce, plata, oro) de las insignias del Fruto quedaba casi pegado al borde y se veia casi invisible; ahora es notoriamente mas grueso. El de las piezas de la Armadura tambien se engroso. Mejorado: la tarjeta Salon de la fe de Inicio ya no corta la informacion -muestra completos el nombre de la insignia, quien la gano y la fecha."
+  "notes": "Corregido: los Desafios todavia dejaban apostar y ganar piezas de la Armadura (coraza, yelmo...) con las que ya se tenian de agosto, aunque esa coleccion este cerrada desde el 1 sep -por eso seguia apareciendo \"Coraza de justicia\" en el Salon de la fe. Ahora los desafios solo ofrecen piezas de la coleccion vigente (Fruto), y se agrego un candado extra que bloquea cualquier entrega de Armadura despues de esa fecha, venga de donde venga. Nuevo: en Encuentra la lectura, el filtro de origen del pasaje ahora tiene la opcion \"Libros elegidos\" para escoger uno o varios libros puntuales -con buscador."
 }
