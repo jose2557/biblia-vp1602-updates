@@ -1,6 +1,6 @@
 {
-  "version": "2.22.6",
-  "versionCode": 127,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.22.6.apk",
-  "notes": "Corregido: los Desafios dejaban apostar y ganar piezas de la Armadura (coraza, yelmo...) con las que ya se tenian de agosto, aunque esa coleccion ya estuviera cerrada -de ahi que se siguiera entregando Coraza de justicia en pleno septiembre. Ahora los desafios solo ofrecen piezas de la coleccion vigente (Fruto del Espiritu), y se agrego un candado adicional que bloquea cualquier entrega de Armadura despues del 1 de septiembre, venga de donde venga. Nuevo: en Encuentra la lectura, el filtro de origen del pasaje tiene ahora la opcion Libros elegidos, para escoger uno o varios libros puntuales (con buscador) y que los pasajes salgan solo de ahi."
+  "version": "2.22.8",
+  "versionCode": 129,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.22.8.apk",
+  "notes": "Progreso de lectura tiene filtros Hoy/Semana/Mes/Siempre en el ranking, igual que las demas categorias. Encuentra la lectura ya no muestra el aviso de en prueba -quedo en vigencia con su propia insignia (Gozo). El Panel de administrador (antes Panel de desarrollador) tiene un diseno mas amigable: los botones de puntos ya no se salen de la pantalla."
 }
