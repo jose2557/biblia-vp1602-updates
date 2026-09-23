@@ -1,6 +1,6 @@
 {
-  "version": "2.22.7",
-  "versionCode": 128,
+  "version": "2.22.8",
+  "versionCode": 129,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Progreso de lectura ahora tiene filtros Hoy/Semana/Mes/Siempre en el ranking. Se quito el aviso de 'en prueba' de Encuentra la lectura, que ya esta en vigencia. Panel de administrador con diseno mas amigable."
+  "notes": "Interno: rediseno visual del Panel de administrador -los botones de puntos ya no se salen de la pantalla, e insignias y puntos quedaron en tarjetas separadas."
 }
