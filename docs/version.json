@@ -1,6 +1,6 @@
 {
-  "version": "2.22.4",
-  "versionCode": 125,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.22.4.apk",
-  "notes": "Nuevo: letra completa del Himno 426, Tu has venido a la orilla. Nuevo: banner en Inicio con el progreso de lectura del dia y un cuadro fijo con la ultima insignia entregada (que se actualiza solo). Corregido: el aro de nivel (bronce, plata, oro) de las insignias del Fruto del Espiritu, que ganadas mas de una vez quedaba casi invisible, ahora es notoriamente mas grueso; el de la Armadura tambien se engroso. Cambiado: el ranking Progreso de lectura ahora mide el avance de HOY como porcentaje de la meta personal, no el acumulado de toda la vida. Corregido: la tarjeta Salon de la fe mostraba el reconocimiento mas viejo en vez del mas nuevo, y cortaba la informacion; ahora muestra completos insignia, nombre y fecha. Corregido: en Memorizar, un versiculo o pregunta fallada volvia a salir demasiado tarde para servir de refuerzo; ahora vuelve antes. Corregido: en Discipulado, Colosenses 3:23-24 aparecia completo -esa leccion es solo el versiculo 23. Corregido: en Encuentra la lectura, cuando el pasaje es identico palabra por palabra en mas de una cita (pasajes paralelos), se acepta cualquiera de esas citas como correcta."
+  "version": "2.22.6",
+  "versionCode": 127,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.22.6.apk",
+  "notes": "Corregido: los Desafios dejaban apostar y ganar piezas de la Armadura (coraza, yelmo...) con las que ya se tenian de agosto, aunque esa coleccion ya estuviera cerrada -de ahi que se siguiera entregando Coraza de justicia en pleno septiembre. Ahora los desafios solo ofrecen piezas de la coleccion vigente (Fruto del Espiritu), y se agrego un candado adicional que bloquea cualquier entrega de Armadura despues del 1 de septiembre, venga de donde venga. Nuevo: en Encuentra la lectura, el filtro de origen del pasaje tiene ahora la opcion Libros elegidos, para escoger uno o varios libros puntuales (con buscador) y que los pasajes salgan solo de ahi."
 }
