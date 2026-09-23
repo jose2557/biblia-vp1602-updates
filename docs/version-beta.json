@@ -1,6 +1,6 @@
 {
-  "version": "2.22.6",
-  "versionCode": 127,
+  "version": "2.22.7",
+  "versionCode": 128,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Interno: el panel de desarrollador ahora tambien deja corregir insignias en la app general para la cuenta del desarrollador -antes esa herramienta estaba bloqueada del todo fuera de pruebas, y no habia forma de arreglar a mano una entrega mal hecha sin editar la base de datos directamente."
+  "notes": "Progreso de lectura ahora tiene filtros Hoy/Semana/Mes/Siempre en el ranking. Se quito el aviso de 'en prueba' de Encuentra la lectura, que ya esta en vigencia. Panel de administrador con diseno mas amigable."
 }
