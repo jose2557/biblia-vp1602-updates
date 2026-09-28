@@ -1,6 +1,6 @@
 {
-  "version": "2.22.8",
-  "versionCode": 129,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-2.22.8.apk",
-  "notes": "Progreso de lectura tiene filtros Hoy/Semana/Mes/Siempre en el ranking, igual que las demas categorias. Encuentra la lectura ya no muestra el aviso de en prueba -quedo en vigencia con su propia insignia (Gozo). El Panel de administrador (antes Panel de desarrollador) tiene un diseno mas amigable: los botones de puntos ya no se salen de la pantalla."
+  "version": "2.22.9",
+  "versionCode": 130,
+  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-latest.apk",
+  "notes": "Lista de Usuarios simplificada: solo nombres, sin insignias en la fila. Toca un nombre para ver todas sus insignias."
 }
