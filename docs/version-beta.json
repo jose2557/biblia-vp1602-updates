@@ -1,6 +1,6 @@
 {
-  "version": "2.22.9",
-  "versionCode": 130,
+  "version": "2.22.10",
+  "versionCode": 131,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Lista de Usuarios simplificada: solo nombres, sin insignias en la fila. Toca un nombre para ver todas sus insignias."
+  "notes": "Nuevo boton Mi perfil en el Inicio: tus records, racha, puntos y meta de lectura, con acceso a tus insignias."
 }
