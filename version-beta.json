@@ -1,6 +1,6 @@
 {
-  "version": "2.22.10",
-  "versionCode": 131,
+  "version": "2.22.11",
+  "versionCode": 132,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Nuevo boton Mi perfil en el Inicio: tus records, racha, puntos y meta de lectura, con acceso a tus insignias."
+  "notes": "Al empezar una coleccion nueva, aviso al entrar a Memorizar mostrando cada insignia: nombre y como se consigue."
 }
