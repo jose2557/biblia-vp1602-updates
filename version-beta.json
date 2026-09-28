@@ -1,6 +1,6 @@
 {
-  "version": "2.22.11",
-  "versionCode": 132,
+  "version": "2.22.12",
+  "versionCode": 133,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Al empezar una coleccion nueva, aviso al entrar a Memorizar mostrando cada insignia: nombre y como se consigue."
+  "notes": "Interno: en el aviso de nueva coleccion, la insignia se muestra mas grande."
 }
