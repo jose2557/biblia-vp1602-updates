@@ -1,6 +1,6 @@
 {
-  "version": "2.22.12",
-  "versionCode": 133,
+  "version": "2.23.0",
+  "versionCode": 134,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-latest.apk",
-  "notes": "Boton Mi perfil en el Inicio. Popup de nueva coleccion al entrar a Memorizar, mostrando cada insignia y como conseguirla. Lista de Usuarios simplificada: solo nombres."
+  "notes": "Nueva coleccion de octubre: Lo que permanece, con su pantalla la Corona. El Fruto del Espiritu queda cerrado y guardado. Regla fija: solo se entregan insignias de la coleccion del periodo; las que se colaron fuera de su mes se quitan solas."
 }
