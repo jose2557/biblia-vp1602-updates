@@ -1,6 +1,6 @@
 {
-  "version": "2.22.12",
-  "versionCode": 133,
+  "version": "2.23.0",
+  "versionCode": 134,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Interno: en el aviso de nueva coleccion, la insignia se muestra mas grande."
+  "notes": "Nueva coleccion de octubre: Lo que permanece, con su pantalla la Corona. Regla fija: solo se entregan insignias de la coleccion del periodo; las que se colaron fuera de su mes se quitan solas."
 }
