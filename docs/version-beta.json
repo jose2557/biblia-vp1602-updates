@@ -1,6 +1,6 @@
 {
-  "version": "2.23.1",
-  "versionCode": 135,
+  "version": "2.23.2",
+  "versionCode": 136,
   "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Interno: Panel de administrador con la pestana Resultados (tabla completa de cada mes y a quien se entrego cada insignia)."
+  "notes": "Versiculos de octubre (ya se puede ganar Caridad). Usuarios vuelve a mostrar puntos, actividad e insignias por coleccion. Buscar por capitulo."
 }
