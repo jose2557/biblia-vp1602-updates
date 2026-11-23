@@ -1,6 +1,1 @@
-{
-  "version": "2.23.2",
-  "versionCode": 136,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Versiculos de octubre (ya se puede ganar Caridad). Usuarios vuelve a mostrar puntos, actividad e insignias por coleccion. Buscar por capitulo."
-}
+{"version":"2.24.2","versionCode":141,"url":"https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk","notes":"El botón de referencias cruzadas ahora es más visible y muestra cuántas referencias tiene el versículo."}
