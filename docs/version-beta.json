@@ -1,6 +1,1 @@
-{
-  "version": "2.24.0",
-  "versionCode": 139,
-  "url": "https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk",
-  "notes": "Referencias cruzadas, palabras clave en el lector y buscar himno por un pedazo de la letra."
-}
+{"version":"2.24.1","versionCode":140,"url":"https://jose2557.github.io/biblia-vp1602-updates/apk/BibliaVP1602-beta.apk","notes":"Referencias cruzadas, palabras clave en el lector, buscar himno por la letra y crédito del himnario."}
